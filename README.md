@@ -1,7 +1,7 @@
 # Carbamazepine-Model
 Whole-body PBPK model of carbamazepine and its metabolite carbamazepine-10,11-epoxide.
 
-<a title="Jü, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Carbamazepine_Structural_Formulae.png"><img width="512" alt="Carbamazepine Structural Formulae" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Carbamazepine_Structural_Formulae.png/512px-Carbamazepine_Structural_Formulae.png"></a>
+<a title="Jü, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Carbamazepine_Structural_Formulae.png"><img width="256" alt="Carbamazepine Structural Formulae" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Carbamazepine_Structural_Formulae.png/512px-Carbamazepine_Structural_Formulae.png"></a>
 
 
 
