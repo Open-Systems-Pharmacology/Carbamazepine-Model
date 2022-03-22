@@ -8,6 +8,7 @@ A literature search was performed to collect available information on physicoche
 | MW              | g/mol    | 236.27    | [DrugBank DB00564](#5-References) | Molecular weight                                |
 | logP (calculated)                        |                          | 1.54                                   | [Austin 2002](#5-References)      | Partition coefficient between octanol and water         |
 | logP (calculated)                        |                          | 2.1                                    | [DrugBank DB00564](#5-References) | Partition coefficient between octanol and water         |
+| logP (calculated) | | 2.45 | [Fenet 2012](#5-References) | Partition coefficient between octanol and water |
 | logP (calculated)                        |                          | 2.77                                   | [DrugBank DB00564](#5-References) | Partition coefficient between octanol and water         |
 | Solubility (pH) | µg/mL   | 336 (6.2)                              | [Annaert 2010](#5-References) | Solubility in human intestinal fluid |
 | Solubility (pH) | µg/mL | 283 (7.0)                              | [Söderlind 2010](#5-References) | Solubility in human intestinal fluid |

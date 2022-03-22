@@ -44,6 +44,8 @@
 
 **Faucette 2007** Faucette, S. R., Zhang, T. C., Moore, R., Sueyoshi, T., Omiecinski, C. J., LeCluyse, E. L., ... & Wang, H. (2007). Relative activation of human pregnane X receptor versus constitutive androstane receptor defines distinct classes of CYP2B6 and CYP3A4 inducers. *Journal of Pharmacology and Experimental Therapeutics*, *320*(1), 72-80.
 
+**Fenet 2012** Fenet, H., Mathieu, O., Mahjoub, O., Li, Z., Hillaire-Buys, D., Casellas, C., & Gomez, E. (2012). Carbamazepine, carbamazepine epoxide and dihydroxycarbamazepine sorption to soil and occurrence in a wastewater reuse site in Tunisia. *Chemosphere*, *88*(1), 49-54.
+
 **Fuhr 2021** Fuhr, L. M., Marok, F. Z., Hanke, N., Selzer, D., & Lehr, T. (2021). Pharmacokinetics of the CYP3A4 and CYP2B6 Inducer Carbamazepine and Its Drug–Drug Interaction Potential: A Physiologically Based Pharmacokinetic Modeling Approach. *Pharmaceutics*, *13*(2), 270.
 
 **Gérardin 1976** Gérardin, A. P., Abadie, F. V., Campestrini, J. A., & Theobald, W. (1976). Pharmacokinetics of carbamazepine in normal humans after single and repeated oral doses. *Journal of pharmacokinetics and biopharmaceutics*, *4*(6), 521-535.
