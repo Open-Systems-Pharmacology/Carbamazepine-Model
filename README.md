@@ -1,5 +1,5 @@
 # Carbamazepine-Model
-Whole-body PBPK model of carbamazepine and its metabolite carbamazepine-10,11-epoxide.
+Whole-body PBPK model of carbamazepine
 
 <a title="Jü, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Carbamazepine_Structural_Formulae.png"><img width="256" alt="Carbamazepine Structural Formulae" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Carbamazepine_Structural_Formulae.png/512px-Carbamazepine_Structural_Formulae.png"></a>
 
@@ -15,9 +15,9 @@ This repository contains:
 
 **The latest release of the PK-Sim project model file and the respective evaluation report can be found [here](https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/releases/latest).**
 
+The carbamazepine model provided herein differs from the model originally published by Fuhr et al. [[1](https://github.com/AndreDlm/Carbamazepine-Model#references)] with respect to the model structure and parameterization. The metabolite carbamazepine-10,11-epoxide is not explicitly modeled here. 
 
-
-The carbamazepine model provided in this branch of the repository is identical to the model originally published by Fuhr et al. [[1](https://github.com/AndreDlm/Carbamazepine-Model#references)]. The model was developed using a large number of clinical studies and is intended to be used as perpetrator drug in CYP3A4-mediated drug-drug interactions (DDI). 
+The model was developed using a large number of clinical studies and is intended to be used as perpetrator drug in CYP3A4-mediated drug-drug interactions (DDI). 
 
 ## Code of conduct
 
