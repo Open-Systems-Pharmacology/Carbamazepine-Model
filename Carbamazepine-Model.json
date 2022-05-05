@@ -24902,11 +24902,11 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 0.8190131,
+              "Min": 0.0,
               "Max": 4.944412,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
+              "Scaling": "Linear",
               "NumberMode": "Normal"
             }
           ],
@@ -24959,7 +24959,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Carbamazepine\nWada1978_200mg_sd_syrup\n2022-03-24 14:24"
+          "OriginText": "Carbamazepine\nWada1978_200mg_sd_syrup\n2022-05-05 15:54"
         }
       ],
       "Interactions": [
@@ -27562,7 +27562,7 @@
             0.4321587
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -28567,7 +28567,7 @@
             1.463197
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -28915,7 +28915,7 @@
             1.21
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -29247,7 +29247,7 @@
             1.780647
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -29536,7 +29536,7 @@
             0.4338669
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -29681,7 +29681,7 @@
             0.3691944
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -30639,7 +30639,7 @@
             4.863945
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -31694,7 +31694,7 @@
             1.308572
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -32584,7 +32584,7 @@
             0.1198683
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -37419,7 +37419,7 @@
             0.3103448
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -37701,7 +37701,7 @@
             0.317734
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -38774,7 +38774,7 @@
             0.008368263
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
