@@ -124,6 +124,8 @@
 
 **Terhaag 1978** Terhaag, B., Richter, K., & Diettrich, H. (1978). Concentration behavior of carbamazepine in bile and plasma of man. *International journal of clinical pharmacology and biopharmacy*, *16*(12), 607-609.
 
+**Tomaszewska 2013** Tomaszewska, I. (2013). In vitro and Physiologically Based Pharmacokinetic models for pharmaceutical cocrystals. Doctoral dissertation, University of Bath. https://purehost.bath.ac.uk/ws/portalfiles/portal/187934939/UnivBath_PhD_2013_I_Tomaszewska.pdf, accessed on 12-01-2022.
+
 **Tomson 1983** Tomson, T., Tybring, G., & Bertilsson, L. (1983). Single‐dose kinetics and metabolism of carbamazepine‐10, 11‐epoxide. *Clinical Pharmacology & Therapeutics*, *33*(1), 58-65.
 
 **US Patent Application - US 2009/0169619 A1**. United States Patent Application 2009, Publication no.: US 2009/0169619 A1. https://patentimages.storage.googleapis.com/66/d4/30/f3588f44ab2b6f/US20090169619A1.pdf, accessed on 12-01-2022.
