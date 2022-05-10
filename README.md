@@ -1,11 +1,23 @@
 # Carbamazepine-Model
-PBPK model of carbamazepine as CYP3A4 and CYP2B6 substrate and inducer
+Whole-body PBPK model of carbamazepine
 
-<img src="https://user-images.githubusercontent.com/45875431/112979046-5db19200-9158-11eb-87a8-3200c471e46d.png" width="300" />
+<a title="Jü, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Carbamazepine_Structural_Formulae.png"><img width="256" alt="Carbamazepine Structural Formulae" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Carbamazepine_Structural_Formulae.png/512px-Carbamazepine_Structural_Formulae.png"></a>
 
-Within this repository we share a whole-body parent-metabolite PBPK model of carbamazepine and its main metabolite carbamazepine-10,11-epoxide. The model was developed using a large number of clinical studies and was evaluated with in a DDI modeling network. The model describes DDIs with carbamazepine as CYP3A4 and CYP2B6 substrate and/or inducer. 
 
-For a detailed documentation of model development, quantitative model evaluation and sensitivity analysis, please refer to [1].
+
+This repository contains:
+
+- a PK-Sim snapshot (*.json) file of the current PBPK model
+- static content (e.g. text blocks, *.md files) as inputs for an evaluation plan
+- an evaluation plan (evaluation-plan.json) to create an evaluation report using the snapshot and static text blocks to display the performance of the model
+
+**The latest release of the snapshot of the model, the evaluation plan and the static content can be found [here](../../releases/latest).**
+
+**The latest release of the PK-Sim project model file and the respective evaluation report can be found [here](https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/releases/latest).**
+
+The carbamazepine model provided herein differs from the model originally published by Fuhr et al. [[1](https://github.com/AndreDlm/Carbamazepine-Model#references)] with respect to the model structure and parameterization. The metabolite carbamazepine-10,11-epoxide is not explicitly modeled here. 
+
+The model was developed using a large number of clinical studies and is intended to be used as perpetrator drug in CYP3A4-mediated drug-drug interactions (DDI). 
 
 ## Code of conduct
 
@@ -21,4 +33,5 @@ The model code is distributed under the [GPLv2 License](https://github.com/Open-
 
 ## References
 
-[[1] Fuhr, L.M.; Marok, F.Z.; Hanke, N.; Selzer, D.; Lehr, T. Pharmacokinetics of the CYP3A4 and CYP2B6 Inducer Carbamazepine and Its Drug–Drug Interaction Potential: A Physiologically Based Pharmacokinetic Modeling Approach. *Pharmaceutics* **2021**, *13*, 270.](https://www.mdpi.com/1999-4923/13/2/270)
+[1] [Fuhr, L. M., Marok, F. Z., Hanke, N., Selzer, D., & Lehr, T. (2021). Pharmacokinetics of the CYP3A4 and CYP2B6 Inducer Carbamazepine and Its Drug–Drug Interaction Potential: A Physiologically Based Pharmacokinetic Modeling Approach. *Pharmaceutics*, *13*(2), 270.](https://pubmed.ncbi.nlm.nih.gov/33671323/)
+

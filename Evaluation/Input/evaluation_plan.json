@@ -1,0 +1,1009 @@
+{
+    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v2.1/OSP_Qualification_Plan_Schema.json",
+    "Projects": [
+        {
+            "Id": "Carbamazepine",
+            "Path": "../../Carbamazepine-Model.json",
+            "BuildingBlocks": [],
+            "SimulationParameters": []
+        }
+    ],
+    "ObservedDataSets": [],
+    "Plots": {
+        "AxesSettings": {
+            "GOFMergedPlotsPredictedVsObserved": [
+                {
+                    "Type": "X",
+                    "Dimension": "Concentration (mass)",
+                    "Unit": "mg/l",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Concentration (mass)",
+                    "Unit": "mg/l",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "GOFMergedPlotsResidualsOverTime": [
+                {
+                    "Type": "X",
+                    "Dimension": "Time",
+                    "Unit": "h",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                }
+            ],
+            "ComparisonTimeProfile": [
+                {
+                    "Type": "X",
+                    "Dimension": "Time",
+                    "Unit": "h",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Concentration (mass)",
+                    "Unit": "mg/l",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsPredictedVsObserved": [
+                {
+                    "Type": "X",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsResidualsVsObserved": [
+                {
+                    "Type": "X",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "PKRatioPlots": [
+                {
+                    "Type": "X",
+                    "Dimension": "Age",
+                    "Unit": "year(s)",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ]
+        },
+        "PlotSettings": {
+            "ChartWidth": 500,
+            "ChartHeight": 400,
+            "Fonts": {
+                "AxisSize": 11,
+                "LegendSize": 9,
+                "OriginSize": 9,
+                "FontFamilyName": "Arial",
+                "WatermarkSize": 40
+            }
+        },
+        "AllPlots": [
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Barzaghi1987_400mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Bedada2015_200mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Bedada2016_200mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Bernus1994_600mg_D1+D5_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Bianchetti1987_400mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Burstein2000_100-200-400mg_md_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Caraco1995_200mg_sd_LeanGroup",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Cawello2010_TrialB_200mg_BID",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Cotter1977_individual_800mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Dalton1985a_control_600mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Dalton1985b_600mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Eichelbaum1985_VolunteerEH_200mg_sd_susp",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Elqidra2004_200mg_sd",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "EUPatent2000_400mg_sd_TegretolXR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "EUPatent2000_600mg_sd_TegretolXR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Gerardin1976_100mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Gerardin1976_200mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Gerardin1976_600mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Gerardin1976_mean_200mg_md_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Gerardin1990_Subject1_10mg-iv_100mg-po-sol",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Gerardin1990_Subject2_10mg-iv_100mg-po-sol",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Ji2008_Arm2_Control_100-200-400mg_md_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Kayali1994_200mg_sd",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Kim2005_200mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Kovacevic2009_400mg_sd_TegretolIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Kovacevic2009_400mg_sd_TegretolXR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Levy1975_6mg-kg_sd_solution_fasted",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Levy1975_6mg-kg_sd_tabIR_fasted",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "McLean2001_400mg_sd_capXR_fasted",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Meyer1992_200mg_sd_TegretolIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Meyer1998_200mg_sd_TegretolIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Miles1989_control_357mg_md_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Moller2001_100-200-400mg_md_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Morselli1975_healthy_400mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Pynnoenen1977_400mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Rawlins1975_100mg_sd_solution_volunteerG",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Rawlins1975_200mg_sd_solution_volunteerG",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Rawlins1975_200mg_sd_tablet_volunteerG",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Rawlins1975_50mg_sd_solution_volunteerG",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Saint-Salvi1987_200mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Stevens1998_400mg_bid_CarbatrolXR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Stevens1998_400mg_bid_TegretolXR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Sumi1987_200mg_sd_sol",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Sumi1987_200mg_sd_tabletA",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Sumi1987_200mg_sd_tabletB",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Sumi1987_200mg_sd_tabletC",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Tomson1983_GB_200mg_sd_susp",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "USPatent2009_300mg_sd_capXR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Wada1978_200mg_sd_syrup",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Wada1978_200mg_sd_tabIR",
+                "SectionId": 33
+            },
+            {
+                "Project": "Carbamazepine",
+                "Simulation": "Wong1983_control_400mg_sd_tabIR",
+                "SectionId": 33
+            }
+        ],
+        "GOFMergedPlots": [
+            {
+                "Title": "Goodness of fit plot for concentration in plasma",
+                "SectionId": 32,
+                "PlotType": "predictedVsObserved|residualsOverTime",
+                "Groups": [
+                    {
+                        "Caption": "Carbamazepine, PO administration as immediate release tablet",
+                        "Symbol": "Circle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Barzaghi1987_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Barzaghi 1987 - Without erythromycin - Carbamazepine - PO - 400 mg - Serum - agg. (n=7)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Bedada2015_200mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Bedada 2015 - Control phase - Carbamazepine - PO - 200 mg - Plasma - agg. (n=12)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Bedada2016_200mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Bedada 2016 - Control phase - Carbamazepine - PO - 200 mg - Plasma - agg. (n=12)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Bernus1994_600mg_D1+D5_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Bernus 1994 - CBZ conc - Carbamazepine - PO - 600 mg - Plasma - agg. (n=6)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Bianchetti1987_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Bianchetti 1987 - CBZ before progabide administration - Carbamazepine - PO - 400 mg - Plasma - agg. (n=6)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Burstein2000_100-200-400mg_md_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Burstein 2000 - Before St Johnâ€™s Wort - Carbamazepine - PO - 100, 200, 400 mg - Plasma - agg. (n=8)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Caraco1995_200mg_sd_LeanGroup",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Caraco 1995 - Lean subjects - Carbamazepine - PO - 200 mg - Plasma - agg. (n=13)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Cawello2010_TrialB_200mg_BID",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Cawello 2010 - CBZ alone (without lacosamide) - Carbamazepine - PO - 100, 200 mg - Plasma - agg. (n=10)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Cotter1977_individual_800mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Cotter 1977 - Single oral 800 mg dose - Carbamazepine - PO - 800 mg - Plasma - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Dalton1985a_control_600mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Dalton 1985a - Placebo (without cimetidine) - Carbamazepine - PO - 600 mg - Plasma - agg. (n=8)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Dalton1985b_600mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Dalton 1985b - Placebo (without ranitidine) - Carbamazepine - PO - 600 mg - Plasma - agg. (n=8)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Elqidra2004_200mg_sd",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Elqidra 2009 - Tegretol - Carbamazepine - PO - 200 mg - Plasma - agg. (n=6)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Gerardin1976_100mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Gérardin 1976 - single oral dose of 100 mg - Carbamazepine - PO - 100 mg - Plasma - agg. (n=6)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Gerardin1976_200mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Gérardin 1976 - single oral dose of 200 mg - Carbamazepine - PO - 200 mg - Plasma - agg. (n=6)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Gerardin1976_600mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Gérardin 1976 - single oral dose of 600 mg - Carbamazepine - PO - 600 mg - Plasma - agg. (n=6)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Gerardin1976_mean_200mg_md_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Gérardin 1976 - Repeated dose 200 mg, Geomean - Carbamazepine - PO - 200 mg - Plasma - agg. (n=5)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Ji2008_Arm2_Control_100-200-400mg_md_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Ji 2008 - Carbamazepine, control (Arm 2) - Carbamazepine - PO - 200 / 400 mg - Plasma - agg. (n=36)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Kayali1994_200mg_sd",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Kayali 1994 - Tegretol - Carbamazepine - PO - 200 mg - Plasma - agg. (n=5)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Kim2005_200mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Kim 2005 - Placebo (without probenecid) - Carbamazepine - PO - 200 mg - Plasma - agg. (n=10)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Kovacevic2009_400mg_sd_TegretolIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "KovaceviÄ‡ 2009 - CBZ IR tablet (reference) - Carbamazepine - PO - 400 mg - Plasma - agg. (n=18)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Kovacevic2009_400mg_sd_TegretolIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "KovaceviÄ‡ 2009 - CBZ IR tablet (test) - Carbamazepine - PO - 400 mg - Plasma - agg. (n=18)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Levy1975_6mg-kg_sd_tabIR_fasted",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Levy 1975 - commercial tablet - Carbamazepine - PO - 6 mg/kg - Serum - agg. (n=6)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Meyer1992_200mg_sd_TegretolIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Meyer 1992 - Product 1 (Tegretol) - Carbamazepine - PO - 200 mg - Plasma - agg. (n=24)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Meyer1998_200mg_sd_TegretolIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Meyer 1998 - Product 1 (Tegretol) - Carbamazepine - PO - 200 mg - Plasma - agg. (n=18)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Miles1989_control_357mg_md_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Miles 1989 - CBZ before ERY - Carbamazepine - PO - 300-400; mean dose: 357.1 +/- 53.5 mg - Serum - agg. (n=7)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Moller2001_100-200-400mg_md_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Møller 2001 - CBZ alone - Carbamazepine - PO - 100, 200, 400 mg - Plasma - agg. (n=12)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Morselli1975_healthy_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Morselli 1975 - Healthy volunteers - Carbamazepine - PO - 400 mg - Plasma - agg. (n=5)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Pynnoenen1977_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Pynnönen 1977 - Single 400 mg oral dose - Carbamazepine - PO - 400 mg - Plasma - agg. (n=6)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Rawlins1975_200mg_sd_tablet_volunteerG",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rawlins 1975 - Volunteer G, 200 mg tablet - Carbamazepine - PO - 200 mg - Plasma - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Saint-Salvi1987_200mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Saint-Salvi 1987 - Carbamazepine alone - Carbamazepine - PO - 200 mg - Plasma - agg. (n=12)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Strandjord 1975 - Mean concentrations - Carbamazepine - PO - 400 mg - Serum - agg. (n=12)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Strandjord 1975 - Subject no. 1 - Carbamazepine - PO - 4.6 mg/kg - Serum - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Strandjord 1975 - Subject no. 2 - Carbamazepine - PO - 4.8 mg/kg - Serum - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Strandjord 1975 - Subject no. 3 - Carbamazepine - PO - 5.1 mg/kg - Serum - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Strandjord 1975 - Subject no. 4 - Carbamazepine - PO - 5.7 mg/kg - Serum - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Strandjord 1975 - Subject no. 5 - Carbamazepine - PO - 5.9 mg/kg - Serum - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Strandjord 1975 - Subject no. 6 - Carbamazepine - PO - 6 mg/kg - Serum - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Strandjord 1975 - Subject no. 7 - Carbamazepine - PO - 6.9 mg/kg - Serum - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Strandjord 1975 - Subject no. 8 - Carbamazepine - PO - 7.1 mg/kg - Serum - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Strandjord 1975 - Subject no. 9 - Carbamazepine - PO - 7.3 mg/kg - Serum - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Strandjord 1975 - Subject no. 10 - Carbamazepine - PO - 7.3 mg/kg - Serum - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Strandjord 1975 - Subject no. 11 - Carbamazepine - PO - 7.5 mg/kg - Serum - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Strandjord 1975 - Subject no. 12 - Carbamazepine - PO - 7.7 mg/kg - Serum - indiv.",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Sumi1987_200mg_sd_tabletA",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Sumi 1987 - Tablet A, CBZ - Carbamazepine - PO - 200 mg - Serum - agg. (n=6)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Sumi1987_200mg_sd_tabletB",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Sumi 1987 - Tablet B, CBZ - Carbamazepine - PO - 200 mg - Serum - agg. (n=6)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Sumi1987_200mg_sd_tabletC",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Sumi 1987 - Tablet C, CBZ - Carbamazepine - PO - 200 mg - Serum - agg. (n=6)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Wada1978_200mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Wada 1978 - Tablet - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)",
+                                "Color": "#0000ff"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Wong1983_control_400mg_sd_tabIR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Wong 1983 - Treatment B (without erythromycin) - Carbamazepine - PO - 400 mg - Plasma - indiv.",
+                                "Color": "#0000ff"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Carbamazepine, PO administration as extended release formulation",
+                        "Symbol": "Diamond",
+                        "OutputMappings": [
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "EUPatent2000_400mg_sd_TegretolXR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "European Patent Application 2000 - Tegretol CR 400 mg tablet, lot A - Carbamazepine - PO - 400 mg - Plasma - agg. (n=34)",
+                                "Color": "#008000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "EUPatent2000_400mg_sd_TegretolXR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "European Patent Application 2000 - Tegretol CR 400 mg tablet, lot B - Carbamazepine - PO - 400 mg - Plasma - agg. (n=34)",
+                                "Color": "#008000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "EUPatent2000_600mg_sd_TegretolXR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "European Patent Application 2000 - Tegretol CR 600 mg tablet - Carbamazepine - PO - 600 mg - Plasma - agg. (n=19)",
+                                "Color": "#008000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Kovacevic2009_400mg_sd_TegretolXR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "KovaceviÄ‡ 2009 - CBZ CR tablet (reference) - Carbamazepine - PO - 400 mg - Plasma - agg. (n=24)",
+                                "Color": "#008000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Kovacevic2009_400mg_sd_TegretolXR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "KovaceviÄ‡ 2009 - CBZ CR tablet (test) - Carbamazepine - PO - 400 mg - Plasma - agg. (n=24)",
+                                "Color": "#008000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "McLean2001_400mg_sd_capXR_fasted",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "McLean 2001 - CBZ, intact capsule, fasting state - Carbamazepine - PO - 400 mg - Plasma - agg. (n=12)",
+                                "Color": "#008000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Stevens1998_400mg_bid_TegretolXR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Stevens 1998 - Tegretol-XR - Carbamazepine - PO - 400 mg - Plasma - agg. (n=15)",
+                                "Color": "#008000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Stevens1998_400mg_bid_CarbatrolXR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Stevens 1998 - Carbatrol - Carbamazepine - PO - 400 mg - Plasma - agg. (n=15)",
+                                "Color": "#008000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "USPatent2009_300mg_sd_capXR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "US Patent Application - US 2009 0169619 A1 - Test - Carbamazepine - PO - 300 mg - Plasma - agg. (n=12)",
+                                "Color": "#008000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "USPatent2009_300mg_sd_capXR",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "US Patent Application - US 2009 0169619 A1 - Reference - Carbamazepine - PO - 300 mg - Plasma - agg. (n=12)",
+                                "Color": "#008000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Carbamazepine, PO administration as liquid oral dosage form",
+                        "Symbol": "Triangle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Eichelbaum1985_VolunteerEH_200mg_sd_susp",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Eichelbaum 1985 - Healthy subject EH - Carbamazepine - PO - 200 mg - Plasma - indiv.",
+                                "Color": "#ff0000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Gerardin1990_Subject1_10mg-iv_100mg-po-sol",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Gérardin 1990 - Subject 1, 100 mg 15N-CBZ as 2% oral suspension - Carbamazepine - PO - 100 mg - Plasma - indiv.",
+                                "Color": "#ff0000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Gerardin1990_Subject2_10mg-iv_100mg-po-sol",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Gérardin 1990 - Subject 2, 100 mg 15N-CBZ as 2% oral suspension - Carbamazepine - PO - 100 mg - Plasma - indiv.",
+                                "Color": "#ff0000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Levy1975_6mg-kg_sd_solution_fasted",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Levy 1975 - propylene glycol solution - Carbamazepine - PO - 6 mg/kg - Serum - agg. (n=6)",
+                                "Color": "#ff0000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Rawlins1975_100mg_sd_solution_volunteerG",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rawlins 1975 - Volunteer G, 100 mg solution - Carbamazepine - PO - 100 mg - Plasma - indiv.",
+                                "Color": "#ff0000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Rawlins1975_200mg_sd_solution_volunteerG",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rawlins 1975 - Volunteer G, 200 mg solution - Carbamazepine - PO - 200 mg - Plasma - indiv.",
+                                "Color": "#ff0000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Rawlins1975_50mg_sd_solution_volunteerG",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Rawlins 1975 - Volunteer G, 50 mg solution - Carbamazepine - PO - 50 mg - Plasma - indiv.",
+                                "Color": "#ff0000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Sumi1987_200mg_sd_sol",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Sumi 1987 - Solution, CBZ - Carbamazepine - PO - 200 mg - Serum - agg. (n=6)",
+                                "Color": "#ff0000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Tomson1983_GB_200mg_sd_susp",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Tomson 1983 - Subject GB, 200 mg CBZ - Carbamazepine - PO - 200 mg - Plasma - indiv.",
+                                "Color": "#ff0000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Wada1978_200mg_sd_syrup",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Wada 1978 - Syrup - Carbamazepine - PO - 200 mg - Serum - agg. (n=9)",
+                                "Color": "#ff0000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "Carbamazepine, IV administration",
+                        "Symbol": "Asterisk",
+                        "OutputMappings": [
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Gerardin1990_Subject1_10mg-iv_100mg-po-sol",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Gérardin 1990 - Subject 1, 2 h IV infusion - Carbamazepine - IV - 10 mg - Plasma - indiv.",
+                                "Color": "#c0c000"
+                            },
+                            {
+                                "Project": "Carbamazepine",
+                                "Simulation": "Gerardin1990_Subject2_10mg-iv_100mg-po-sol",
+                                "Output": "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Gérardin 1990 - Subject 2, 2 h IV infusion - Carbamazepine - IV - 10 mg - Plasma - indiv.",
+                                "Color": "#c0c000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "ComparisonTimeProfilePlots": [],
+        "DDIRatioPlots": [],
+        "PKRatioPlots": []
+    },
+    "Inputs": [
+        {
+            "Name": "Carbamazepine",
+            "Project": "Carbamazepine",
+            "Type": "Compound",
+            "SectionId": 31
+        },
+        {
+            "Name": "[15N]-Carbamazepine",
+            "Project": "Carbamazepine",
+            "Type": "Compound",
+            "SectionId": 31
+        },
+        {
+            "Name": "CBZ_tabletIR_fasted (Tegretol)",
+            "Project": "Carbamazepine",
+            "Type": "Formulation",
+            "SectionId": 31
+        },
+        {
+            "Name": "CBZ_capsuleXR_fasted (Carbatrol)",
+            "Project": "Carbamazepine",
+            "Type": "Formulation",
+            "SectionId": 31
+        },
+        {
+            "Name": "Solution",
+            "Project": "Carbamazepine",
+            "Type": "Formulation",
+            "SectionId": 31
+        }
+    ],
+    "Sections": [
+        {
+            "Id": 1,
+            "Title": "1 Introduction",
+            "Content": "Content/Section1_Introduction.md"
+        },
+        {
+            "Id": 2,
+            "Title": "2 Methods",
+            "Content": "Content/Section2_Methods.md",
+            "Sections": [
+                {
+                    "Id": 21,
+                    "Title": "2.1 Modeling Strategy",
+                    "Content": "Content/Section2.1_Modeling_Strategy.md"
+                },
+                {
+                    "Id": 22,
+                    "Title": "2.2 Data",
+                    "Content": "Content/Section2.2_Data.md"
+                },
+                {
+                    "Id": 23,
+                    "Title": "2.3 Model Parameters and Assumptions",
+                    "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md"
+                }
+            ]
+        },
+        {
+            "Id": 3,
+            "Title": "3 Results and Discussion",
+            "Content": "Content/Section3_Results_and_Discussion.md",
+            "Sections": [
+                {
+                    "Id": 31,
+                    "Title": "3.1 Final input parameters",
+                    "Content": "Content/Input_table.md"
+                },
+                {
+                    "Id": 32,
+                    "Title": "3.2 Diagnostics Plots",
+                    "Content": "Content/GOF_diagnostics.md"
+                },
+                {
+                    "Id": 33,
+                    "Title": "3.3 Concentration-Time Profiles",
+                    "Content": "Content/Concentration_time_profiles.md"
+                }
+            ]
+        },
+        {
+            "Id": 4,
+            "Title": "4 Conclusion",
+            "Content": "Content/Section4_Conclusion.md"
+        },
+        {
+            "Id": 5,
+            "Title": "5 References",
+            "Content": "Content/References.md"
+        }
+    ],
+    "Intro": [
+        {
+            "Path": "Content/titlepage.md"
+        }
+    ]
+}
