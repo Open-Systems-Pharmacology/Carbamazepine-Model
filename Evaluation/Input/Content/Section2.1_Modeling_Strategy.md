@@ -4,7 +4,7 @@ The PBPK model was developed based on publicly available pharmacokinetic data of
 
 Unknown parameters (see below) were identified using the Parameter Identification module provided in PK-Sim<sup>®</sup>. Structural model selection was mainly guided by visual inspection of the resulting description of data and biological plausibility. Several parameter identifications were conducted to optimize unknown parameters. In a first step, lipophilicity and enzymatic clearances (catalyzed by CYP3A4, CYP2B6 and UGT2B7) were optimized using observed plasma concentration-time profile data following administration of carbamazepine intravenously or orally as syrup. In a second parameter identification, enzymatic clearances were refined and optimized together with the glomerular filtration rate fraction of carbamazepine and the dissolution kinetics of the IR tablet using observed plasma concentration-time profiles and the dose fraction excreted unchanged in urine after single dose administration of various doses as IR tablet. Subsequently, the EC<sub>50</sub> value of CYP3A4 induction was optimized using observed plasma concentration-time profile data after multiple dose administration of carbamazepine. In a final parameter identification, the dissolution kinetics and carbamazepine solubility of XR formulations were optimized.
 
-Details about input data (physicochemical, *in vitro* and clinical) can be found in [Section 2.2](#22-Data).
+Details about input data (physicochemical, *in vitro* and clinical) can be found in [Section 2.2](#22-data).
 
-Details about the structural model and its parameters can be found in [Section 2.3](#23-Model-Parameters-and-Assumptions).
+Details about the structural model and its parameters can be found in [Section 2.3](#23-model-parameters-and-assumptions).
 
