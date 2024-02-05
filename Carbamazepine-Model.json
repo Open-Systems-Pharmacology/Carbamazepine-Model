@@ -17690,6 +17690,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Bedada2016_200mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 6
+              }
             }
           ],
           "Name": "Bedada2016_200mg_sd_tabIR",
@@ -18014,6 +18023,15 @@
                 "LegendIndex": 5,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Bianchetti1987_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 6
               }
             }
           ],
@@ -18342,6 +18360,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Burstein2000_100-200-400mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 6
+              }
             }
           ],
           "Name": "Burstein2000_100-200-400mg_md_tabIR",
@@ -18445,8 +18472,7 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
-        "Organism|Kidney|Urine|Carbamazepine|Fraction excreted to urine",
-        "Organism|Lumen|Carbamazepine|Fraction of oral drug mass absorbed into mucosa"
+        "Organism|Kidney|Urine|Carbamazepine|Fraction excreted to urine"
       ],
       "Individual": "Bernus1994",
       "Compounds": [
@@ -18529,6 +18555,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Bernus1994_600mg_D1+D5_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 10
+              }
             }
           ],
           "Name": "Bernus1994_600mg_D1+D5_tabIR - plasma",
@@ -18549,7 +18584,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Carbamazepine\nBernus1994_600mg_D1+D5_tabIR\n2022-03-29 15:23"
+          "OriginText": "Carbamazepine-Model\nBernus1994_600mg_D1+D5_tabIR\n2024-02-05 20:53"
         },
         {
           "Axes": [
@@ -18598,6 +18633,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Kidney-Urine-Fraction excreted to urine",
+              "X": "Time",
+              "Y": "Bernus1994_600mg_D1+D5_tabIR|Organism|Kidney|Urine|Carbamazepine|Fraction excreted to urine",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 15
+              }
             }
           ],
           "Name": "Bernus1994_600mg_D1+D5_tabIR - urine",
@@ -18618,7 +18662,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Carbamazepine\nBernus1994_600mg_D1+D5_tabIR\n2022-03-29 15:23"
+          "OriginText": "Carbamazepine-Model\nBernus1994_600mg_D1+D5_tabIR\n2024-02-05 20:53"
         }
       ],
       "Interactions": [
@@ -18755,6 +18799,15 @@
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Caraco1995_200mg_sd_LeanGroup|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
               }
             }
           ],
@@ -19166,6 +19219,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Cawello2010_TrialB_200mg_BID|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
             }
           ],
           "Name": "Time Profile Analysis",
@@ -19323,6 +19385,15 @@
                 "LegendIndex": 4,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Cotter1977_individual_800mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5
               }
             }
           ],
@@ -19482,6 +19553,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Dalton1985b_600mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 8
+              }
             }
           ],
           "Name": "Dalton1985a_600mg_sd_tabIR",
@@ -19640,67 +19720,18 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "None",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "Carbamazepine\nEichelbaum1985_VolunteerEH_200mg_sd_susp\n2022-03-29 15:41"
-        },
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Eichelbaum 1985 - Healthy subject EH - Carbamazepine - PO - 200 mg - Plasma - indiv.-Carbamazepine-Peripheral Venous Blood-Plasma-Individual",
-              "X": "Eichelbaum 1985 - Healthy subject EH - Carbamazepine - PO - 200 mg - Plasma - indiv.|Time",
-              "Y": "Eichelbaum 1985 - Healthy subject EH - Carbamazepine - PO - 200 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Carbamazepine|Individual",
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Eichelbaum1985_VolunteerEH_200mg_sd_susp|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#0000FF",
-                "LegendIndex": 6,
-                "LineStyle": "None",
-                "Symbol": "Circle"
+                "Color": "#FF0000",
+                "LegendIndex": 7
               }
             }
           ],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Time Profile Analysis",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -19882,6 +19913,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Elqidra2004_200mg_sd|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
+              }
             }
           ],
           "Name": "Time Profile Analysis",
@@ -20052,6 +20092,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "EUPatent2000_400mg_sd_TegretolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 6
+              }
             }
           ],
           "Name": "EUPatent2005_400mg_sd_TegretolXR",
@@ -20209,6 +20258,15 @@
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "EUPatent2000_600mg_sd_TegretolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
               }
             }
           ],
@@ -20498,6 +20556,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Gerardin1976_mean_200mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9
+              }
             }
           ],
           "Name": "Geradin1976_mean_200mg_md_tabIR",
@@ -20615,6 +20682,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Gerardin1976_mean_200mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9
+              }
             }
           ],
           "Name": "Geradin1976_mean_200mg_md_tabIR - first dose",
@@ -20731,6 +20807,15 @@
                 "LegendIndex": 8,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Gerardin1976_mean_200mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9
               }
             }
           ],
@@ -20890,6 +20975,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Gerardin1976_100mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9
+              }
             }
           ],
           "Name": "Time Profile Analysis",
@@ -21048,6 +21142,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Gerardin1976_200mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9
+              }
             }
           ],
           "Name": "Geradin1976_200mg_sd_tabIR",
@@ -21205,6 +21308,15 @@
                 "LegendIndex": 8,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Gerardin1976_600mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9
               }
             }
           ],
@@ -21415,6 +21527,24 @@
                 "LegendIndex": 7,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Gerardin1990_Subject1_10mg-iv_100mg-po-sol|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 8
+              }
+            },
+            {
+              "Name": "[15N]-Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Gerardin1990_Subject1_10mg-iv_100mg-po-sol|Organism|PeripheralVenousBlood|[15N]-Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 9
               }
             }
           ],
@@ -21636,6 +21766,24 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Gerardin1990_Subject2_10mg-iv_100mg-po-sol|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 8
+              }
+            },
+            {
+              "Name": "[15N]-Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Gerardin1990_Subject2_10mg-iv_100mg-po-sol|Organism|PeripheralVenousBlood|[15N]-Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#0000FF",
+                "LegendIndex": 9
+              }
             }
           ],
           "Name": "Geradin1990_Subject2_100mg-iv_100mg-po-sol",
@@ -21829,6 +21977,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Kayali1994_200mg_sd|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
+              }
             }
           ],
           "Name": "Time Profile Analysis",
@@ -21986,6 +22143,15 @@
                 "LegendIndex": 5,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Kim2005_200mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 6
               }
             }
           ],
@@ -22158,6 +22324,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Kovacevic2009_400mg_sd_TegretolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
             }
           ],
           "Name": "Kovacevic2009_400mg_sd_TegretolXR",
@@ -22328,6 +22503,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Kovacevic2009_400mg_sd_TegretolIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9
+              }
             }
           ],
           "Name": "Kovacevic2009_400mg_sd_TegretolIR",
@@ -22485,6 +22669,15 @@
                 "LegendIndex": 9,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Levy1975_6mg-kg_sd_solution_fasted|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 10
               }
             }
           ],
@@ -22644,6 +22837,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Levy1975_6mg-kg_sd_tabIR_fasted|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9
+              }
             }
           ],
           "Name": "Levy1975_6mg-kg_sd_tabIR_fasted",
@@ -22801,6 +23003,15 @@
                 "LegendIndex": 11,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "McLean2001_400mg_sd_capXR_fasted|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 12
               }
             }
           ],
@@ -22960,6 +23171,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Meyer1992_200mg_sd_TegretolIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5
+              }
             }
           ],
           "Name": "Time Profile Analysis",
@@ -23117,6 +23337,15 @@
                 "LegendIndex": 4,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Meyer1998_200mg_sd_TegretolIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5
               }
             }
           ],
@@ -23561,6 +23790,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Moller2001_100-200-400mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5
+              }
             }
           ],
           "Name": "Moller2001_100-200-400mg_md_tabIR",
@@ -23723,6 +23961,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Morselli1975_healthy_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9
+              }
             }
           ],
           "Name": "Morselli1975_healthy_400mg_sd_tabIR_plasma",
@@ -23802,6 +24049,15 @@
                 "LegendIndex": 11,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Kidney-Urine-Fraction excreted to urine",
+              "X": "Time",
+              "Y": "Morselli1975_healthy_400mg_sd_tabIR|Organism|Kidney|Urine|Carbamazepine|Fraction excreted to urine",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 12
               }
             }
           ],
@@ -23965,6 +24221,71 @@
               }
             },
             {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Pynnoenen1977_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 8
+              }
+            }
+          ],
+          "Name": "Pynnoenen1977_400mg_sd_tabIR_plasma",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Carbamazepine\nPynnoenen1977_400mg_sd_tabIR\n2022-03-16 10:34"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Carbamazepine-Saliva-Saliva-Concentration",
+              "X": "Time",
+              "Y": "Pynnoenen1977_400mg_sd_tabIR|Organism|Saliva|Saliva|Carbamazepine|Concentration in container",
+              "CurveOptions": {
+                "Color": "#E36C09",
+                "LegendIndex": 9
+              }
+            },
+            {
               "Name": "Pynnönen 1977 - Single 400 mg oral dose - Carbamazepine - PO - 400 mg - Saliva - agg. (n=6)-Carbamazepine-Saliva-Undefined-ArithmeticMean",
               "X": "Pynnönen 1977 - Single 400 mg oral dose - Carbamazepine - PO - 400 mg - Saliva - agg. (n=6)|Time",
               "Y": "Pynnönen 1977 - Single 400 mg oral dose - Carbamazepine - PO - 400 mg - Saliva - agg. (n=6)|ObservedData|Saliva|Undefined|Carbamazepine|ArithmeticMean",
@@ -23976,7 +24297,7 @@
               }
             }
           ],
-          "Name": "Pynnoenen1977_400mg_sd_tabIR",
+          "Name": "Pynnoenen1977_400mg_sd_tabIR_saliva",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -24131,6 +24452,15 @@
                 "LegendIndex": 4,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Rawlins1975_100mg_sd_solution_volunteerG|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5
               }
             }
           ],
@@ -24290,6 +24620,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Rawlins1975_200mg_sd_solution_volunteerG|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5
+              }
             }
           ],
           "Name": "Rawlins1975_200mg_sd_sol",
@@ -24447,6 +24786,15 @@
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Rawlins1975_200mg_sd_tablet_volunteerG|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 3
               }
             }
           ],
@@ -24606,6 +24954,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Rawlins1975_50mg_sd_solution_volunteerG|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5
+              }
             }
           ],
           "Name": "Rawlins1975_50mg_sd_sol",
@@ -24763,6 +25120,15 @@
                 "LegendIndex": 4,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Saint-Salvi1987_200mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5
               }
             }
           ],
@@ -24962,6 +25328,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Stevens1998_400mg_bid_CarbatrolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
             }
           ],
           "Name": "Stevens1998_400mg_bid_CarbatrolXR",
@@ -25024,9 +25399,18 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Stevens1998_400mg_bid_CarbatrolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
             }
           ],
-          "Name": "Stevens1998_400mg_bid_CarbatrolXR 1 - last dose",
+          "Name": "Stevens1998_400mg_bid_CarbatrolXR - last dose",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -25222,6 +25606,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Stevens1998_400mg_bid_TegretolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
             }
           ],
           "Name": "Stevens1998_400mg_bid_TegretolXR",
@@ -25284,9 +25677,18 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Stevens1998_400mg_bid_TegretolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
             }
           ],
-          "Name": "Stevens1998_400mg_bid_TegretolXR 1 - last dose",
+          "Name": "Stevens1998_400mg_bid_TegretolXR - last dose",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -25585,6 +25987,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 17
+              }
             }
           ],
           "Name": "Strandjord1975_mean_400mg_sd_tabIR",
@@ -25601,7 +26012,7 @@
           },
           "Settings": {
             "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
+            "LegendPosition": "None",
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
@@ -25743,9 +26154,18 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Sumi1987_200mg_sd_sol|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 6
+              }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sumi1987_200mg_sd_solution",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -25759,7 +26179,7 @@
           },
           "Settings": {
             "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
+            "LegendPosition": "None",
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
@@ -25901,9 +26321,18 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Sumi1987_200mg_sd_tabletA|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9
+              }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sumi1987_200mg_sd_tabletA",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -25917,7 +26346,7 @@
           },
           "Settings": {
             "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
+            "LegendPosition": "None",
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
@@ -26059,9 +26488,18 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Sumi1987_200mg_sd_tabletB|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9
+              }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sumi1987_200mg_sd_tabletB",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -26075,7 +26513,7 @@
           },
           "Settings": {
             "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
+            "LegendPosition": "None",
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
@@ -26217,9 +26655,18 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Sumi1987_200mg_sd_tabletC|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 9
+              }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sumi1987_200mg_sd_tabletC",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -26233,7 +26680,7 @@
           },
           "Settings": {
             "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
+            "LegendPosition": "None",
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
@@ -26375,6 +26822,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Tomson1983_GB_200mg_sd_susp|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 5
+              }
             }
           ],
           "Name": "Tomson1983_GB_200mg_sd_susp",
@@ -26391,7 +26847,7 @@
           },
           "Settings": {
             "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
+            "LegendPosition": "None",
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
@@ -26544,6 +27000,15 @@
                 "LegendIndex": 12,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "USPatent2009_300mg_sd_capXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 13
               }
             }
           ],
@@ -26700,17 +27165,6 @@
           ],
           "Curves": [
             {
-              "Name": "Wada 1978 - Syrup - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)-Carbamazepine-Saliva-Undefined-ArithmeticMean",
-              "X": "Wada 1978 - Syrup - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)|Time",
-              "Y": "Wada 1978 - Syrup - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)|ObservedData|Saliva|Undefined|Carbamazepine|ArithmeticMean",
-              "CurveOptions": {
-                "Color": "#F79646",
-                "LegendIndex": 10,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
               "Name": "Wada 1978 - Syrup - Carbamazepine - PO - 200 mg - Serum - agg. (n=9)-Carbamazepine-Peripheral Venous Blood-Plasma-ArithmeticMean",
               "X": "Wada 1978 - Syrup - Carbamazepine - PO - 200 mg - Serum - agg. (n=9)|Time",
               "Y": "Wada 1978 - Syrup - Carbamazepine - PO - 200 mg - Serum - agg. (n=9)|ObservedData|Peripheral Venous Blood|Plasma|Carbamazepine|ArithmeticMean",
@@ -26720,9 +27174,85 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Wada1978_200mg_sd_syrup|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 12
+              }
             }
           ],
-          "Name": "Wada1987_200mg_sd_syrup",
+          "Name": "Wada1987_200mg_sd_syrup_plasma",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Carbamazepine\nWada1978_200mg_sd_syrup\n2022-05-05 15:54"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Carbamazepine-Saliva-Saliva-Concentration",
+              "X": "Time",
+              "Y": "Wada1978_200mg_sd_syrup|Organism|Saliva|Saliva|Carbamazepine|Concentration in container",
+              "CurveOptions": {
+                "Color": "#E36C09",
+                "LegendIndex": 2
+              }
+            },
+            {
+              "Name": "Wada 1978 - Syrup - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)-Carbamazepine-Saliva-Undefined-ArithmeticMean",
+              "X": "Wada 1978 - Syrup - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)|Time",
+              "Y": "Wada 1978 - Syrup - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)|ObservedData|Saliva|Undefined|Carbamazepine|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#F79646",
+                "LegendIndex": 10,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Wada1987_200mg_sd_syrup_saliva",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -26852,8 +27382,6 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": 1.5,
-              "Max": 47.0,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -26865,8 +27393,6 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 0.2,
-              "Max": 3.0,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
@@ -26874,17 +27400,6 @@
             }
           ],
           "Curves": [
-            {
-              "Name": "Wada 1978 - Tablet - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)-Carbamazepine-Saliva-Undefined-ArithmeticMean",
-              "X": "Wada 1978 - Tablet - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)|Time",
-              "Y": "Wada 1978 - Tablet - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)|ObservedData|Saliva|Undefined|Carbamazepine|ArithmeticMean",
-              "CurveOptions": {
-                "Color": "#F79646",
-                "LegendIndex": 10,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
             {
               "Name": "Wada 1978 - Tablet - Carbamazepine - PO - 200 mg - Serum - agg. (n=9)-Carbamazepine-Peripheral Venous Blood-Plasma-ArithmeticMean",
               "X": "Wada 1978 - Tablet - Carbamazepine - PO - 200 mg - Serum - agg. (n=9)|Time",
@@ -26895,9 +27410,18 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Wada1978_200mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 12
+              }
             }
           ],
-          "Name": "Wada1978_200mg_sd_tabIR",
+          "Name": "Wada1978_200mg_sd_tabIR_plasma",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -26912,6 +27436,73 @@
           "Settings": {
             "SideMarginsEnabled": true,
             "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Carbamazepine\nWada1978_200mg_sd_tabIR\n2022-03-24 12:22"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Carbamazepine-Saliva-Saliva-Concentration",
+              "X": "Time",
+              "Y": "Wada1978_200mg_sd_tabIR|Organism|Saliva|Saliva|Carbamazepine|Concentration in container",
+              "CurveOptions": {
+                "Color": "#E36C09",
+                "LegendIndex": 13
+              }
+            },
+            {
+              "Name": "Wada 1978 - Tablet - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)-Carbamazepine-Saliva-Undefined-ArithmeticMean",
+              "X": "Wada 1978 - Tablet - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)|Time",
+              "Y": "Wada 1978 - Tablet - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)|ObservedData|Saliva|Undefined|Carbamazepine|ArithmeticMean",
+              "CurveOptions": {
+                "Color": "#F79646",
+                "LegendIndex": 14,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Wada1978_200mg_sd_tabIR_plasma 1",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "RightInside",
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
@@ -27289,6 +27880,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Miles1989_control_357mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 4
+              }
             }
           ],
           "Name": "Miles1989_control_357_md_tabIR",
@@ -27447,6 +28047,15 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Wong1983_control_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 7
+              }
             }
           ],
           "Name": "Wong1983_control_400mg_sd_tabIR",
@@ -27463,7 +28072,7 @@
           },
           "Settings": {
             "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
+            "LegendPosition": "None",
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
@@ -29227,7 +29836,7 @@
             0.2586953
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -29392,7 +30001,7 @@
             0.4321587
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -29548,7 +30157,7 @@
             0.1097955
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -30282,7 +30891,7 @@
             0.5360134
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -30471,7 +31080,7 @@
             1.463197
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -30660,7 +31269,7 @@
             1.549098
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -30843,7 +31452,7 @@
             1.21
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -31023,7 +31632,7 @@
             0.37
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -31199,7 +31808,7 @@
             1.780647
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -31516,7 +32125,7 @@
             0.4338669
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -31675,7 +32284,7 @@
             0.3691944
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -31831,7 +32440,7 @@
             1.9
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -31978,7 +32587,7 @@
             1.4
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -32125,7 +32734,7 @@
             0.8
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -32272,7 +32881,7 @@
             1.3
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -32419,7 +33028,7 @@
             1.4
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -32729,7 +33338,7 @@
             4.863945
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -33536,7 +34145,7 @@
             0.3286214
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -33700,7 +34309,7 @@
             1.567191
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -34027,7 +34636,7 @@
             1.639004
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -34220,7 +34829,7 @@
             0.3578772
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -34407,7 +35016,7 @@
             0.33
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -34556,7 +35165,7 @@
             0.6
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -34703,7 +35312,7 @@
             0.6
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -34850,7 +35459,7 @@
             0.1198683
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -35147,9 +35756,10 @@
             "MolWeight": 236.269
           },
           "Values": [
-            0.0228346474
+            2.28346467
           ],
-          "Dimension": "Fraction"
+          "Dimension": "Fraction",
+          "Unit": "%"
         }
       ],
       "BaseGrid": {
@@ -35292,9 +35902,10 @@
             "MolWeight": 236.269
           },
           "Values": [
-            0.0114173237
+            1.14173234
           ],
-          "Dimension": "Fraction"
+          "Dimension": "Fraction",
+          "Unit": "%"
         }
       ],
       "BaseGrid": {
@@ -35646,7 +36257,7 @@
             0.1655172
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -35823,7 +36434,7 @@
             1.123708
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -35995,7 +36606,7 @@
             1.181964
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -36141,7 +36752,7 @@
             1.6
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -36299,7 +36910,7 @@
             0.03111915
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -36468,7 +37079,7 @@
             0.03498115
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -36636,7 +37247,7 @@
             0.4584285
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -36979,7 +37590,7 @@
             1.269866
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -37133,7 +37744,7 @@
             0.149268
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -37325,7 +37936,7 @@
             12.46829
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -37518,7 +38129,7 @@
             11.55396
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -37671,7 +38282,7 @@
             0.7
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -37818,7 +38429,7 @@
             1.3
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -37965,7 +38576,7 @@
             1.5
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -38112,7 +38723,7 @@
             1.0
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -38298,7 +38909,7 @@
             0.238
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -38880,7 +39491,7 @@
             2.540694
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -39054,7 +39665,7 @@
             1.25944
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -39232,7 +39843,7 @@
             1.43
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -39408,7 +40019,7 @@
             1.314643
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -39559,7 +40170,7 @@
             1.777015
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -39738,7 +40349,7 @@
             4.985744
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -39937,7 +40548,7 @@
             0.393584251
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -40101,7 +40712,7 @@
             0.3103448
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -40256,7 +40867,7 @@
             0.243842378
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -40411,7 +41022,7 @@
             0.317734
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -40565,7 +41176,7 @@
             0.1995074
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -40716,7 +41327,7 @@
             5.137022
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -40876,7 +41487,7 @@
             0.26
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -41049,7 +41660,7 @@
             0.62
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -41222,7 +41833,7 @@
             0.3
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -41395,7 +42006,7 @@
             0.31
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -41580,7 +42191,7 @@
             0.008368263
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -41751,7 +42362,7 @@
             0.1502479
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -41922,7 +42533,7 @@
             0.1001441
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -42080,7 +42691,7 @@
             0.63
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -42385,7 +42996,7 @@
             0.05640461
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
