@@ -17652,7 +17652,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -17810,7 +17810,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -17847,6 +17847,15 @@
                 "LegendIndex": 5,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Bedada2015_200mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 6
               }
             }
           ],
@@ -17968,7 +17977,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -18291,7 +18300,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -18482,7 +18491,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -18709,7 +18718,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -19115,7 +19124,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -19277,7 +19286,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -19435,7 +19444,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -19593,7 +19602,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -19835,7 +19844,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -19994,7 +20003,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -20163,7 +20172,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -20396,7 +20405,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -20843,7 +20852,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -21001,7 +21010,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -21159,7 +21168,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -21358,7 +21367,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -21578,7 +21587,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -21782,7 +21791,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -21940,7 +21949,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -22100,7 +22109,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -22270,7 +22279,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -22439,7 +22448,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -22597,7 +22606,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -22755,7 +22764,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -22913,7 +22922,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -23071,7 +23080,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -23510,7 +23519,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -23676,7 +23685,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -23916,7 +23925,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -24085,7 +24094,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -24243,7 +24252,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -24401,7 +24410,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -24559,7 +24568,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -24717,7 +24726,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -24915,7 +24924,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -25175,7 +25184,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -25407,7 +25416,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -25696,7 +25705,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -25854,7 +25863,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -26012,7 +26021,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -26170,7 +26179,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -26328,7 +26337,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -26487,7 +26496,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -26658,7 +26667,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -26833,7 +26842,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -27006,7 +27015,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -27043,6 +27052,15 @@
                 "LegendIndex": 7,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Barzaghi1987_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 8
               }
             }
           ],
@@ -27229,7 +27247,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -27391,7 +27409,7 @@
           }
         }
       ],
-      "HasResults": false,
+      "HasResults": true,
       "IndividualAnalyses": [
         {
           "Axes": [
@@ -30074,7 +30092,7 @@
             0.575
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -31338,7 +31356,7 @@
             0.2043821
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -42735,7 +42753,7 @@
             4.045353
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
