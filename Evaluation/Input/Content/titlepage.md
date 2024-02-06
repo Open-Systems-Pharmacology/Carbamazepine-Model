@@ -1,9 +1,13 @@
-# Building and Evaluation of a PBPK Model for Carbamazepine in Adults
+# Building and evaluation of a PBPK Model for carbamazepine in healthy adults
 
 
-| Version                                         | TODO                                                         |
+| Version                                         | x.x-OSPy.y                                                         |
 | ----------------------------------------------- | ------------------------------------------------------------ |
-| based on *Model Snapshot* and *Evaluation Plan* | 1.1<br />(https://github.com/Open-Systems-Pharmacology/Carbamazepine-Model/releases/tag/v1.1) |
-| OSP Version                                     | 10.0                                                         |
-| Qualification Framework Version                 | 2.1                                                          |
+| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Carbamazepine-Model/releases/tag/vx.x |
+| OSP Version                                     | y.y                                                         |
+| Qualification Framework Version                 | z.z                                                         |
 
+
+This evaluation report and the corresponding PK-Sim project file are stored at:
+
+https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/
