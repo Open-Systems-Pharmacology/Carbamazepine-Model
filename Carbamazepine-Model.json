@@ -20721,8 +20721,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": 407.0,
-              "Max": 505.0,
+              "Min": 406.0,
+              "Max": 506.0,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -20734,8 +20734,8 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 0.4,
-              "Max": 4.5,
+              "Min": 0.0,
+              "Max": 5.0,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
@@ -24932,7 +24932,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "µg/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -25851,9 +25851,75 @@
               "X": "Strandjord 1975 - Mean concentrations - Carbamazepine - PO - 400 mg - Serum - agg. (n=12)|Time",
               "Y": "Strandjord 1975 - Mean concentrations - Carbamazepine - PO - 400 mg - Serum - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Carbamazepine|ArithmeticMean",
               "CurveOptions": {
+                "Color": "#0000FF",
                 "LegendIndex": 4,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 17
+              }
+            }
+          ],
+          "Name": "Strandjord1975_mean_400mg_sd_tabIR - observed mean data",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Carbamazepine\nStrandjord1975_mean_400mg_sd_tabIR\n2022-03-15 16:14"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 17
               }
             },
             {
@@ -25987,18 +26053,9 @@
                 "LineStyle": "None",
                 "Symbol": "Circle"
               }
-            },
-            {
-              "Name": "Carbamazepine-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 17
-              }
             }
           ],
-          "Name": "Strandjord1975_mean_400mg_sd_tabIR",
+          "Name": "Strandjord1975_mean_400mg_sd_tabIR - observed individual data",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -27622,7 +27679,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "µg/ml",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -27669,7 +27726,7 @@
           },
           "Settings": {
             "SideMarginsEnabled": true,
-            "LegendPosition": "RightInside",
+            "LegendPosition": "None",
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
@@ -31965,7 +32022,7 @@
             0.2043821
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -34489,7 +34546,7 @@
             1.308572
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -35605,7 +35662,7 @@
             0.1314002
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
@@ -43364,7 +43421,7 @@
             4.045353
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/ml"
         }
       ],
       "BaseGrid": {
