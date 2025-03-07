@@ -1,4 +1,4 @@
-### 2.2.1    In vitro / physicochemical Data
+### 2.2.1 In vitro / physicochemical Data
 
 A literature search was performed to collect available information on physicochemical properties of carbamazepine and carbamazepine-10,11-epoxide. The information is summarized in the table below. 
 
@@ -37,7 +37,7 @@ A literature search was performed to collect available information on physicoche
 
 <sup>d</sup> refers to CYP3A4-mediated reaction forming carbamazepine-10,11-epoxide
 
-### 2.2.2    Clinical Data
+### 2.2.2 Clinical Data
 
 A literature search was conducted to collect available data on carbamazepine pharmacokinetics in healthy adult subjects after intravenous or oral administration in the fasted state.
 

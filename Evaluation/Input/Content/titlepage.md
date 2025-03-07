@@ -10,4 +10,4 @@
 
 This evaluation report and the corresponding PK-Sim project file are stored at:
 
-https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/
+[https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library](https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library)

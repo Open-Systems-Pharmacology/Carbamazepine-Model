@@ -1,5 +1,5 @@
 {
-    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v2.3/OSP_Qualification_Plan_Schema.json",
+    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v3.3/OSP_Qualification_Plan_Schema.json",
     "Projects": [
         {
             "Id": "Carbamazepine",
@@ -385,7 +385,10 @@
             {
                 "Title": "Goodness of fit plot for concentration in plasma",
                 "SectionId": 32,
-                "PlotType": "predictedVsObserved|residualsOverTime",
+                "PlotTypes": [
+                    "predictedVsObserved",
+                    "residualsOverTime"
+                ],
                 "Groups": [
                     {
                         "Caption": "Carbamazepine, PO administration as immediate release tablet",
