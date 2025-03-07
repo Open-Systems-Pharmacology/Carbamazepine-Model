@@ -1,5 +1,5 @@
 {
-  "Version": 79,
+  "Version": 80,
   "ExpressionProfiles": [
     {
       "Type": "Enzyme",
@@ -17601,7 +17601,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -17768,7 +17768,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -17935,7 +17935,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -18102,172 +18102,172 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_21|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_21|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_22|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_22|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_23|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_23|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_24|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_24|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_25|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_25|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_26|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_26|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_27|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_27|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_28|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_28|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_29|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_29|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_30|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_30|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_31|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_31|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_32|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_32|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_33|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_33|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_34|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_34|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Burstein2000 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D28 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -18440,32 +18440,32 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -18711,7 +18711,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -18956,177 +18956,177 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_21|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_21|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_22|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_22|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_23|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_23|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_24|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_24|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_25|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_25|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_26|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_26|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_27|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_27|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_28|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_28|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_29|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_29|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_30|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_30|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_31|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_31|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_32|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_32|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_33|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_33|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_34|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_34|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_35|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_35|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cawello 2010 - D1-D3 100 mg BID - D4-D18 200mg BID|CBZ_tabletIR_fasted (Tegretol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -19297,7 +19297,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Cotter1977 - SD - 800 mg - tablet|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Cotter1977 - SD - 800 mg - tablet|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -19464,7 +19464,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|600 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|600 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -19631,7 +19631,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -19824,7 +19824,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -19992,7 +19992,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|400 mg|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|400 mg|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -20170,7 +20170,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|600 mg|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|600 mg|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -20342,77 +20342,77 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1976 - CBZ - QD - 200 mg (Tegretol)|CBZ_tabletIR_fasted (Tegretol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -20886,7 +20886,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|100 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|100 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -21053,7 +21053,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -21220,7 +21220,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|600 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|600 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -21388,12 +21388,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Geradin1990 - iv 10mg 120 min (CBZ)|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|Geradin1990 - iv 10mg 120 min (CBZ)|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 120.0,
           "Unit": "min"
         },
         {
-          "Path": "Applications|Geradin1990 - po SD 100mg (15N-CBZ)|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1990 - po SD 100mg (15N-CBZ)|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -21626,12 +21626,12 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Geradin1990 - iv 10mg 120 min (CBZ)|Application_1|ProtocolSchemaItem|Infusion time",
+          "Path": "Events|Geradin1990 - iv 10mg 120 min (CBZ)|Application_1|ProtocolSchemaItem|Infusion time",
           "Value": 120.0,
           "Unit": "min"
         },
         {
-          "Path": "Applications|Geradin1990 - po SD 100mg (15N-CBZ)|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Geradin1990 - po SD 100mg (15N-CBZ)|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -21888,7 +21888,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -22055,7 +22055,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -22224,7 +22224,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|400 mg|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|400 mg|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -22403,7 +22403,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -22581,7 +22581,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Levy 1975 - 6 mg/kg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Levy 1975 - 6 mg/kg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -22748,7 +22748,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Levy 1975 - 6 mg/kg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Levy 1975 - 6 mg/kg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -22915,7 +22915,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|400 mg|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|400 mg|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -23082,7 +23082,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -23249,7 +23249,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -23497,207 +23497,207 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_21|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_21|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_22|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_22|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_23|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_23|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_24|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_24|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_25|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_25|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_26|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_26|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_27|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_27|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_28|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_28|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_29|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_29|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_30|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_30|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_31|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_31|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_32|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_32|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_33|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_33|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_34|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_34|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_35|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_35|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_36|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_36|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_37|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_37|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_38|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_38|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_39|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_39|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_40|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_40|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_41|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_41|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Moller2001 - D1-D3 100mg BID - D4-D6 200mg BID - D7-D35 400mg QD|CBZ_tabletIR_fasted (Tegretol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -23871,7 +23871,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -24129,7 +24129,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -24364,7 +24364,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|100 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|100 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -24531,7 +24531,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -24698,7 +24698,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -24865,7 +24865,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|50 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|50 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -25032,7 +25032,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -25199,47 +25199,47 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -25477,47 +25477,47 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Stevens 1998 - 400 mg bid|CBZ_capsuleXR_fasted (Carbatrol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -25767,7 +25767,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -26122,7 +26122,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -26289,7 +26289,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -26456,7 +26456,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -26623,7 +26623,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -26790,7 +26790,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -26958,7 +26958,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|300 mg|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|300 mg|CBZ_capsuleXR_fasted (Carbatrol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -27137,7 +27137,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -27377,7 +27377,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|200 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -27612,7 +27612,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -27779,72 +27779,72 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Miles 1989 - ControlPhase - Carbamazepine 357.1 mg bid|CBZ_tabletIR_fasted (Tegretol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -28015,7 +28015,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|400 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -28182,7 +28182,7 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|600 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|600 mg|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -28440,137 +28440,137 @@
       ],
       "Parameters": [
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_21|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_21|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_22|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_22|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_23|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_23|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_24|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_24|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_25|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_25|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_26|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_26|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_27|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_27|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         },
         {
-          "Path": "Applications|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
+          "Path": "Events|Ji2008 - Arm2_Carbamazepine_ControlPhase|CBZ_tabletIR_fasted (Tegretol)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
           "Unit": "ml/kg"
         }
@@ -28872,32 +28872,6 @@
               "Value": 10.0
             }
           ]
-        },
-        {
-          "Name": "GFR fraction",
-          "Scaling": "Linear",
-          "IsFixed": true,
-          "LinkedParameters": [
-            "Wada1978_200mg_sd_syrup|Neighborhoods|Kidney_pls_Kidney_ur|Carbamazepine|Glomerular Filtration-Glomerular Filtration|GFR fraction",
-            "Gerardin1990_Subject1_10mg-iv_100mg-po-sol|Neighborhoods|Kidney_pls_Kidney_ur|Carbamazepine|Glomerular Filtration-Glomerular Filtration|GFR fraction",
-            "Gerardin1990_Subject1_10mg-iv_100mg-po-sol|Neighborhoods|Kidney_pls_Kidney_ur|[15N]-Carbamazepine|Glomerular Filtration-Glomerular Filtration|GFR fraction",
-            "Gerardin1990_Subject2_10mg-iv_100mg-po-sol|Neighborhoods|Kidney_pls_Kidney_ur|Carbamazepine|Glomerular Filtration-Glomerular Filtration|GFR fraction",
-            "Gerardin1990_Subject2_10mg-iv_100mg-po-sol|Neighborhoods|Kidney_pls_Kidney_ur|[15N]-Carbamazepine|Glomerular Filtration-Glomerular Filtration|GFR fraction"
-          ],
-          "Parameters": [
-            {
-              "Name": "Start value",
-              "Value": 0.0
-            },
-            {
-              "Name": "MinValue",
-              "Value": 0.0
-            },
-            {
-              "Name": "MaxValue",
-              "Value": 1.0
-            }
-          ]
         }
       ],
       "Analyses": [
@@ -29132,55 +29106,6 @@
       ],
       "IdentificationParameters": [
         {
-          "Name": "Dissolution time (50% dissolved)",
-          "Scaling": "Log",
-          "LinkedParameters": [
-            "Wada1978_200mg_sd_tabIR|Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Dissolution time (50% dissolved)",
-            "Bernus1994_600mg_D1+D5_tabIR|Applications|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Dissolution time (50% dissolved)",
-            "Gerardin1976_100mg_sd_tabIR|Applications|100 mg|CBZ_tabletIR_fasted (Tegretol)|Dissolution time (50% dissolved)"
-          ],
-          "Parameters": [
-            {
-              "Name": "Start value",
-              "Value": 200.0,
-              "Unit": "min"
-            },
-            {
-              "Name": "MinValue",
-              "Value": 1.0,
-              "Unit": "min"
-            },
-            {
-              "Name": "MaxValue",
-              "Value": 1000.0,
-              "Unit": "min"
-            }
-          ]
-        },
-        {
-          "Name": "GFR fraction",
-          "Scaling": "Log",
-          "LinkedParameters": [
-            "Bernus1994_600mg_D1+D5_tabIR|Neighborhoods|Kidney_pls_Kidney_ur|Carbamazepine|Glomerular Filtration-Glomerular Filtration|GFR fraction",
-            "Gerardin1976_100mg_sd_tabIR|Neighborhoods|Kidney_pls_Kidney_ur|Carbamazepine|Glomerular Filtration-Glomerular Filtration|GFR fraction",
-            "Wada1978_200mg_sd_tabIR|Neighborhoods|Kidney_pls_Kidney_ur|Carbamazepine|Glomerular Filtration-Glomerular Filtration|GFR fraction"
-          ],
-          "Parameters": [
-            {
-              "Name": "Start value",
-              "Value": 0.02
-            },
-            {
-              "Name": "MinValue",
-              "Value": 1E-06
-            },
-            {
-              "Name": "MaxValue",
-              "Value": 1.0
-            }
-          ]
-        },
-        {
           "Name": "kcat",
           "Scaling": "Linear",
           "UseAsFactor": true,
@@ -29207,29 +29132,6 @@
             {
               "Name": "MaxValue",
               "Value": 1.2
-            }
-          ]
-        },
-        {
-          "Name": "Dissolution shape",
-          "Scaling": "Log",
-          "LinkedParameters": [
-            "Wada1978_200mg_sd_tabIR|Applications|200 mg|CBZ_tabletIR_fasted (Tegretol)|Dissolution shape",
-            "Bernus1994_600mg_D1+D5_tabIR|Applications|Bernus 1994 - MD - 600 mg twice (120h)|CBZ_tabletIR_fasted (Tegretol)|Dissolution shape",
-            "Gerardin1976_100mg_sd_tabIR|Applications|100 mg|CBZ_tabletIR_fasted (Tegretol)|Dissolution shape"
-          ],
-          "Parameters": [
-            {
-              "Name": "Start value",
-              "Value": 0.92
-            },
-            {
-              "Name": "MinValue",
-              "Value": 0.1
-            },
-            {
-              "Name": "MaxValue",
-              "Value": 10.0
             }
           ]
         },
@@ -29582,51 +29484,6 @@
         }
       ],
       "IdentificationParameters": [
-        {
-          "Name": "Dissolution shape",
-          "Scaling": "Log",
-          "LinkedParameters": [
-            "McLean2001_400mg_sd_capXR_fasted|Applications|400 mg|CBZ_capsuleXR_fasted (Carbatrol)|Dissolution shape"
-          ],
-          "Parameters": [
-            {
-              "Name": "Start value",
-              "Value": 0.7939239247
-            },
-            {
-              "Name": "MinValue",
-              "Value": 0.1
-            },
-            {
-              "Name": "MaxValue",
-              "Value": 10.0
-            }
-          ]
-        },
-        {
-          "Name": "Dissolution time (50% dissolved)",
-          "Scaling": "Log",
-          "LinkedParameters": [
-            "McLean2001_400mg_sd_capXR_fasted|Applications|400 mg|CBZ_capsuleXR_fasted (Carbatrol)|Dissolution time (50% dissolved)"
-          ],
-          "Parameters": [
-            {
-              "Name": "Start value",
-              "Value": 439.4574099817,
-              "Unit": "min"
-            },
-            {
-              "Name": "MinValue",
-              "Value": 1.0,
-              "Unit": "min"
-            },
-            {
-              "Name": "MaxValue",
-              "Value": 1000.0,
-              "Unit": "min"
-            }
-          ]
-        },
         {
           "Name": "Solubility at reference pH",
           "Scaling": "Log",
