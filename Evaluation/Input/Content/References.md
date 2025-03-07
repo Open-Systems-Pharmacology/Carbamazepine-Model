@@ -18,7 +18,7 @@
 
 **Burstein 2000** Burstein, A. H., Horton, R. L., Dunn, T., Alfaro, R. M., Piscitelli, S. C., & Theodore, W. (2000). Lack of effect of St John's Wort on carbamazepine pharmacokinetics in healthy volunteers. *Clinical Pharmacology & Therapeutics*, *68*(6), 605-612.
 
-**Caraco 1995** Caraco, Y., Zylber-Katz, E., Berry, E. M., & Levy, M. (1995). Carbamazepine phakmacokinetics in obese and lean subjects. *Annals of Pharmacotherapy*, *29*(9), 843-847.
+**Caraco 1995** Caraco, Y., Zylber-Katz, E., Berry, E. M., & Levy, M. (1995). Carbamazepine pharmacokinetics in obese and lean subjects. *Annals of Pharmacotherapy*, *29*(9), 843-847.
 
 **Cawello 2010** Cawello, W., Nickel, B., & Eggert‐Formella, A. (2010). No pharmacokinetic interaction between lacosamide and carbamazepine in healthy volunteers. *The Journal of Clinical Pharmacology*, *50*(4), 459-471.
 
