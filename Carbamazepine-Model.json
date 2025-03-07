@@ -7425,6 +7425,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Bedada2016_200mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Bedada 2016 - Control phase - Carbamazepine - PO - 200 mg - Plasma - agg. (n=12)"
+        }
+      ],
       "Individual": "Bedada2016",
       "Compounds": [
         {
@@ -7592,6 +7599,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Bedada2015_200mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Bedada 2015 - Control phase - Carbamazepine - PO - 200 mg - Plasma - agg. (n=12)"
+        }
+      ],
       "Individual": "Bedada2015",
       "Compounds": [
         {
@@ -7758,6 +7772,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Bianchetti1987_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Bianchetti 1987 - CBZ before progabide administration - Carbamazepine - PO - 400 mg - Plasma - agg. (n=6)"
+        }
       ],
       "Individual": "Bianchetti1987",
       "Compounds": [
@@ -8091,6 +8112,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Burstein2000_100-200-400mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Burstein 2000 - Before St Johnâ€™s Wort - Carbamazepine - PO - 100, 200, 400 mg - Plasma - agg. (n=8)"
+        }
+      ],
       "Individual": "Burstein2000",
       "Compounds": [
         {
@@ -8289,6 +8317,23 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
         "Organism|Kidney|Urine|Carbamazepine|Fraction excreted to urine"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Bernus1994_600mg_D1+D5_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Bernus 1994 - CBZ conc - Carbamazepine - PO - 600 mg - Plasma - agg. (n=6)"
+        },
+        {
+          "Scaling": "Linear",
+          "Path": "Bernus1994_600mg_D1+D5_tabIR|Organism|Kidney|Urine|Carbamazepine|Fraction excreted to urine",
+          "ObservedData": "Bernus 1994 - CBZ, first dose - Carbamazepine - PO - 600 mg - Urine - agg. (n=6)"
+        },
+        {
+          "Scaling": "Linear",
+          "Path": "Bernus1994_600mg_D1+D5_tabIR|Organism|Kidney|Urine|Carbamazepine|Fraction excreted to urine",
+          "ObservedData": "Bernus 1994 - CBZ, second dose - Carbamazepine - PO - 600 mg - Urine - agg. (n=6)"
+        }
       ],
       "Individual": "Bernus1994",
       "Compounds": [
@@ -8534,6 +8579,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Caraco1995_200mg_sd_LeanGroup|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Caraco 1995 - Lean subjects - Carbamazepine - PO - 200 mg - Plasma - agg. (n=13)"
+        }
       ],
       "Individual": "Caraco1995_LeanSubjects",
       "Compounds": [
@@ -8950,6 +9002,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Cawello2010_TrialB_200mg_BID|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Cawello 2010 - CBZ alone (without lacosamide) - Carbamazepine - PO - 100, 200 mg - Plasma - agg. (n=10)"
+        }
+      ],
       "Individual": "Cawello2010_TrialB",
       "Compounds": [
         {
@@ -9121,6 +9180,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Cotter1977_individual_800mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Cotter 1977 - Single oral 800 mg dose - Carbamazepine - PO - 800 mg - Plasma - indiv."
+        }
+      ],
       "Individual": "Cotter1977",
       "Compounds": [
         {
@@ -9288,6 +9354,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Dalton1985b_600mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Dalton 1985b - Placebo (without ranitidine) - Carbamazepine - PO - 600 mg - Plasma - agg. (n=8)"
+        }
+      ],
       "Individual": "Dalton1985b",
       "Compounds": [
         {
@@ -9454,6 +9527,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Eichelbaum1985_VolunteerEH_200mg_sd_susp|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Eichelbaum 1985 - Healthy subject EH - Carbamazepine - PO - 200 mg - Plasma - indiv."
+        }
       ],
       "Individual": "Eichelbaum1985_VolunteerEH",
       "Compounds": [
@@ -9648,6 +9728,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Elqidra2004_200mg_sd|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Elqidra 2009 - Tegretol - Carbamazepine - PO - 200 mg - Plasma - agg. (n=6)"
+        }
+      ],
       "Individual": "Elqidra2004",
       "Compounds": [
         {
@@ -9815,6 +9902,18 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "EUPatent2000_400mg_sd_TegretolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "European Patent Application 2000 - Tegretol CR 400 mg tablet, lot A - Carbamazepine - PO - 400 mg - Plasma - agg. (n=34)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "EUPatent2000_400mg_sd_TegretolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "European Patent Application 2000 - Tegretol CR 400 mg tablet, lot B - Carbamazepine - PO - 400 mg - Plasma - agg. (n=34)"
+        }
       ],
       "Individual": "EUPatent2000_Study1_400mg_SD",
       "Compounds": [
@@ -9993,6 +10092,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "EUPatent2000_600mg_sd_TegretolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "European Patent Application 2000 - Tegretol CR 600 mg tablet - Carbamazepine - PO - 600 mg - Plasma - agg. (n=19)"
+        }
       ],
       "Individual": "EUPatent2000_Study3_600mg_SD",
       "Compounds": [
@@ -10235,6 +10341,38 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Gerardin1976_mean_200mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Gérardin 1976 - Repeated dose 200 mg, Geomean - Carbamazepine - PO - 200 mg - Plasma - agg. (n=5)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Gerardin1976_mean_200mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Gérardin 1976 - Repeated dose 200 mg, Subject 1 - Carbamazepine - PO - 200 mg - Plasma - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Gerardin1976_mean_200mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Gérardin 1976 - Repeated dose 200 mg, Subject 2 - Carbamazepine - PO - 200 mg - Plasma - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Gerardin1976_mean_200mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Gérardin 1976 - Repeated dose 200 mg, Subject 3 - Carbamazepine - PO - 200 mg - Plasma - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Gerardin1976_mean_200mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Gérardin 1976 - Repeated dose 200 mg, Subject 4 - Carbamazepine - PO - 200 mg - Plasma - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Gerardin1976_mean_200mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Gérardin 1976 - Repeated dose 200 mg, Subject 5 - Carbamazepine - PO - 200 mg - Plasma - indiv."
+        }
       ],
       "Individual": "Gerardin1976_MD_mean",
       "Compounds": [
@@ -10710,6 +10848,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Gerardin1976_100mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Gérardin 1976 - single oral dose of 100 mg - Carbamazepine - PO - 100 mg - Plasma - agg. (n=6)"
+        }
+      ],
       "Individual": "Gerardin1976_SD",
       "Compounds": [
         {
@@ -10877,6 +11022,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Gerardin1976_200mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Gérardin 1976 - single oral dose of 200 mg - Carbamazepine - PO - 200 mg - Plasma - agg. (n=6)"
+        }
+      ],
       "Individual": "Gerardin1976_SD",
       "Compounds": [
         {
@@ -11043,6 +11195,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Gerardin1976_600mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Gérardin 1976 - single oral dose of 600 mg - Carbamazepine - PO - 600 mg - Plasma - agg. (n=6)"
+        }
       ],
       "Individual": "Gerardin1976_SD",
       "Compounds": [
@@ -11217,6 +11376,18 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|[15N]-Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Gerardin1990_Subject1_10mg-iv_100mg-po-sol|Organism|PeripheralVenousBlood|[15N]-Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Gérardin 1990 - Subject 1, 100 mg 15N-CBZ as 2% oral suspension - Carbamazepine - PO - 100 mg - Plasma - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Gerardin1990_Subject1_10mg-iv_100mg-po-sol|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Gérardin 1990 - Subject 1, 2 h IV infusion - Carbamazepine - IV - 10 mg - Plasma - indiv."
+        }
       ],
       "Individual": "Gerardin1990_Subject1",
       "Compounds": [
@@ -11455,6 +11626,18 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|[15N]-Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Gerardin1990_Subject2_10mg-iv_100mg-po-sol|Organism|PeripheralVenousBlood|[15N]-Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Gérardin 1990 - Subject 2, 100 mg 15N-CBZ as 2% oral suspension - Carbamazepine - PO - 100 mg - Plasma - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Gerardin1990_Subject2_10mg-iv_100mg-po-sol|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Gérardin 1990 - Subject 2, 2 h IV infusion - Carbamazepine - IV - 10 mg - Plasma - indiv."
+        }
       ],
       "Individual": "Gerardin1990_Subject2",
       "Compounds": [
@@ -11712,6 +11895,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Kayali1994_200mg_sd|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Kayali 1994 - Tegretol - Carbamazepine - PO - 200 mg - Plasma - agg. (n=5)"
+        }
+      ],
       "Individual": "Kayali1994",
       "Compounds": [
         {
@@ -11878,6 +12068,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Kim2005_200mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Kim 2005 - Placebo (without probenecid) - Carbamazepine - PO - 200 mg - Plasma - agg. (n=10)"
+        }
       ],
       "Individual": "Kim2005",
       "Compounds": [
@@ -12047,6 +12244,18 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Kovacevic2009_400mg_sd_TegretolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "KovaceviÄ‡ 2009 - CBZ CR tablet (reference) - Carbamazepine - PO - 400 mg - Plasma - agg. (n=24)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Kovacevic2009_400mg_sd_TegretolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "KovaceviÄ‡ 2009 - CBZ CR tablet (test) - Carbamazepine - PO - 400 mg - Plasma - agg. (n=24)"
+        }
       ],
       "Individual": "Kovacevic_CR",
       "Compounds": [
@@ -12227,6 +12436,18 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Kovacevic2009_400mg_sd_TegretolIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "KovaceviÄ‡ 2009 - CBZ IR tablet (reference) - Carbamazepine - PO - 400 mg - Plasma - agg. (n=18)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Kovacevic2009_400mg_sd_TegretolIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "KovaceviÄ‡ 2009 - CBZ IR tablet (test) - Carbamazepine - PO - 400 mg - Plasma - agg. (n=18)"
+        }
+      ],
       "Individual": "Kovacevic_IR",
       "Compounds": [
         {
@@ -12405,6 +12626,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Levy1975_6mg-kg_sd_solution_fasted|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Levy 1975 - propylene glycol solution - Carbamazepine - PO - 6 mg/kg - Serum - agg. (n=6)"
+        }
+      ],
       "Individual": "Levy1975",
       "Compounds": [
         {
@@ -12571,6 +12799,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Levy1975_6mg-kg_sd_tabIR_fasted|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Levy 1975 - commercial tablet - Carbamazepine - PO - 6 mg/kg - Serum - agg. (n=6)"
+        }
       ],
       "Individual": "Levy1975",
       "Compounds": [
@@ -12739,6 +12974,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "McLean2001_400mg_sd_capXR_fasted|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "McLean 2001 - CBZ, intact capsule, fasting state - Carbamazepine - PO - 400 mg - Plasma - agg. (n=12)"
+        }
+      ],
       "Individual": "McLean2001",
       "Compounds": [
         {
@@ -12906,6 +13148,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Meyer1992_200mg_sd_TegretolIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Meyer 1992 - Product 1 (Tegretol) - Carbamazepine - PO - 200 mg - Plasma - agg. (n=24)"
+        }
+      ],
       "Individual": "Meyer1992",
       "Compounds": [
         {
@@ -13072,6 +13321,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Meyer1998_200mg_sd_TegretolIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Meyer 1998 - Product 1 (Tegretol) - Carbamazepine - PO - 200 mg - Plasma - agg. (n=18)"
+        }
       ],
       "Individual": "Meyer1998",
       "Compounds": [
@@ -13521,6 +13777,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Moller2001_100-200-400mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Møller 2001 - CBZ alone - Carbamazepine - PO - 100, 200, 400 mg - Plasma - agg. (n=12)"
+        }
+      ],
       "Individual": "Moller2001",
       "Compounds": [
         {
@@ -13695,6 +13958,28 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
         "Organism|Kidney|Urine|Carbamazepine|Fraction excreted to urine"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Morselli1975_healthy_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Morselli 1975 - Healthy volunteers - Carbamazepine - PO - 400 mg - Plasma - agg. (n=5)"
+        },
+        {
+          "Scaling": "Linear",
+          "Path": "Morselli1975_healthy_400mg_sd_tabIR|Organism|Kidney|Urine|Carbamazepine|Fraction excreted to urine",
+          "ObservedData": "Morselli 1975 - Subject F.G. - Carbamazepine - PO - 400 mg - Urine - indiv."
+        },
+        {
+          "Scaling": "Linear",
+          "Path": "Morselli1975_healthy_400mg_sd_tabIR|Organism|Kidney|Urine|Carbamazepine|Fraction excreted to urine",
+          "ObservedData": "Morselli 1975 - Subject P.B. - Carbamazepine - PO - 400 mg - Urine - indiv."
+        },
+        {
+          "Scaling": "Linear",
+          "Path": "Morselli1975_healthy_400mg_sd_tabIR|Organism|Kidney|Urine|Carbamazepine|Fraction excreted to urine",
+          "ObservedData": "Morselli 1975 - Subject P.M.G. - Carbamazepine - PO - 400 mg - Urine - indiv."
+        }
       ],
       "Individual": "Morselli1975_healthy",
       "Compounds": [
@@ -13954,6 +14239,18 @@
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
         "Organism|Saliva|Saliva|Carbamazepine|Concentration in container"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Pynnoenen1977_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Pynnönen 1977 - Single 400 mg oral dose - Carbamazepine - PO - 400 mg - Plasma - agg. (n=6)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Pynnoenen1977_400mg_sd_tabIR|Organism|Saliva|Saliva|Carbamazepine|Concentration in container",
+          "ObservedData": "Pynnönen 1977 - Single 400 mg oral dose - Carbamazepine - PO - 400 mg - Saliva - agg. (n=6)"
+        }
+      ],
       "Individual": "Pynönnen1977",
       "Compounds": [
         {
@@ -14188,6 +14485,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Rawlins1975_100mg_sd_solution_volunteerG|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Rawlins 1975 - Volunteer G, 100 mg solution - Carbamazepine - PO - 100 mg - Plasma - indiv."
+        }
+      ],
       "Individual": "Rawlins1975_VolunteerG",
       "Compounds": [
         {
@@ -14354,6 +14658,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Rawlins1975_200mg_sd_solution_volunteerG|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Rawlins 1975 - Volunteer G, 200 mg solution - Carbamazepine - PO - 200 mg - Plasma - indiv."
+        }
       ],
       "Individual": "Rawlins1975_VolunteerG",
       "Compounds": [
@@ -14522,6 +14833,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Rawlins1975_200mg_sd_tablet_volunteerG|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Rawlins 1975 - Volunteer G, 200 mg tablet - Carbamazepine - PO - 200 mg - Plasma - indiv."
+        }
+      ],
       "Individual": "Rawlins1975_VolunteerG",
       "Compounds": [
         {
@@ -14689,6 +15007,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Rawlins1975_50mg_sd_solution_volunteerG|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Rawlins 1975 - Volunteer G, 50 mg solution - Carbamazepine - PO - 50 mg - Plasma - indiv."
+        }
+      ],
       "Individual": "Rawlins1975_VolunteerG",
       "Compounds": [
         {
@@ -14855,6 +15180,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Saint-Salvi1987_200mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Saint-Salvi 1987 - Carbamazepine alone - Carbamazepine - PO - 200 mg - Plasma - agg. (n=12)"
+        }
       ],
       "Individual": "Saint-Salvi1987",
       "Compounds": [
@@ -15062,6 +15394,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Stevens1998_400mg_bid_CarbatrolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Stevens 1998 - Carbatrol - Carbamazepine - PO - 400 mg - Plasma - agg. (n=15)"
+        }
       ],
       "Individual": "Stevens1998",
       "Compounds": [
@@ -15341,6 +15680,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Stevens1998_400mg_bid_TegretolXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Stevens 1998 - Tegretol-XR - Carbamazepine - PO - 400 mg - Plasma - agg. (n=15)"
+        }
+      ],
       "Individual": "Stevens1998",
       "Compounds": [
         {
@@ -15590,6 +15936,73 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Strandjord 1975 - Mean concentrations - Carbamazepine - PO - 400 mg - Serum - agg. (n=12)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Strandjord 1975 - Subject no. 1 - Carbamazepine - PO - 4.6 mg/kg - Serum - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Strandjord 1975 - Subject no. 10 - Carbamazepine - PO - 7.3 mg/kg - Serum - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Strandjord 1975 - Subject no. 11 - Carbamazepine - PO - 7.5 mg/kg - Serum - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Strandjord 1975 - Subject no. 12 - Carbamazepine - PO - 7.7 mg/kg - Serum - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Strandjord 1975 - Subject no. 2 - Carbamazepine - PO - 4.8 mg/kg - Serum - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Strandjord 1975 - Subject no. 3 - Carbamazepine - PO - 5.1 mg/kg - Serum - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Strandjord 1975 - Subject no. 4 - Carbamazepine - PO - 5.7 mg/kg - Serum - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Strandjord 1975 - Subject no. 5 - Carbamazepine - PO - 5.9 mg/kg - Serum - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Strandjord 1975 - Subject no. 6 - Carbamazepine - PO - 6 mg/kg - Serum - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Strandjord 1975 - Subject no. 7 - Carbamazepine - PO - 6.9 mg/kg - Serum - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Strandjord 1975 - Subject no. 8 - Carbamazepine - PO - 7.1 mg/kg - Serum - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Strandjord1975_mean_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Strandjord 1975 - Subject no. 9 - Carbamazepine - PO - 7.3 mg/kg - Serum - indiv."
+        }
       ],
       "Individual": "Strandjord_mean",
       "Compounds": [
@@ -15946,6 +16359,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Sumi1987_200mg_sd_sol|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Sumi 1987 - Solution, CBZ - Carbamazepine - PO - 200 mg - Serum - agg. (n=6)"
+        }
+      ],
       "Individual": "Sumi1987",
       "Compounds": [
         {
@@ -16112,6 +16532,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Sumi1987_200mg_sd_tabletA|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Sumi 1987 - Tablet A, CBZ - Carbamazepine - PO - 200 mg - Serum - agg. (n=6)"
+        }
       ],
       "Individual": "Sumi1987",
       "Compounds": [
@@ -16280,6 +16707,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Sumi1987_200mg_sd_tabletB|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Sumi 1987 - Tablet B, CBZ - Carbamazepine - PO - 200 mg - Serum - agg. (n=6)"
+        }
+      ],
       "Individual": "Sumi1987",
       "Compounds": [
         {
@@ -16446,6 +16880,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Sumi1987_200mg_sd_tabletC|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Sumi 1987 - Tablet C, CBZ - Carbamazepine - PO - 200 mg - Serum - agg. (n=6)"
+        }
       ],
       "Individual": "Sumi1987",
       "Compounds": [
@@ -16614,6 +17055,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Tomson1983_GB_200mg_sd_susp|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Tomson 1983 - Subject GB, 200 mg CBZ - Carbamazepine - PO - 200 mg - Plasma - indiv."
+        }
+      ],
       "Individual": "Tomson1983_GB",
       "Compounds": [
         {
@@ -16781,6 +17229,18 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "USPatent2009_300mg_sd_capXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "US Patent Application - US 2009 0169619 A1 - Reference - Carbamazepine - PO - 300 mg - Plasma - agg. (n=12)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "USPatent2009_300mg_sd_capXR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "US Patent Application - US 2009 0169619 A1 - Test - Carbamazepine - PO - 300 mg - Plasma - agg. (n=12)"
+        }
       ],
       "Individual": "USPatent2009",
       "Compounds": [
@@ -16961,6 +17421,18 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
         "Organism|Saliva|Saliva|Carbamazepine|Concentration in container"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Wada1978_200mg_sd_syrup|Organism|Saliva|Saliva|Carbamazepine|Concentration in container",
+          "ObservedData": "Wada 1978 - Syrup - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Wada1978_200mg_sd_syrup|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Wada 1978 - Syrup - Carbamazepine - PO - 200 mg - Serum - agg. (n=9)"
+        }
       ],
       "Individual": "Wada1978",
       "Compounds": [
@@ -17202,6 +17674,18 @@
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
         "Organism|Saliva|Saliva|Carbamazepine|Concentration in container"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Wada1978_200mg_sd_tabIR|Organism|Saliva|Saliva|Carbamazepine|Concentration in container",
+          "ObservedData": "Wada 1978 - Tablet - Carbamazepine - PO - 200 mg - Saliva - agg. (n=9)"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "Wada1978_200mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Wada 1978 - Tablet - Carbamazepine - PO - 200 mg - Serum - agg. (n=9)"
+        }
+      ],
       "Individual": "Wada1978",
       "Compounds": [
         {
@@ -17436,6 +17920,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Barzaghi1987_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Barzaghi 1987 - Without erythromycin - Carbamazepine - PO - 400 mg - Serum - agg. (n=7)"
+        }
+      ],
       "Individual": "Barzaghi1987",
       "Compounds": [
         {
@@ -17668,6 +18159,13 @@
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Miles1989_control_357mg_md_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Miles 1989 - CBZ before ERY - Carbamazepine - PO - 300-400; mean dose: 357.1 +/- 53.5 mg - Serum - agg. (n=7)"
+        }
+      ],
       "Individual": "Miles1989",
       "Compounds": [
         {
@@ -17838,6 +18336,13 @@
       ],
       "OutputSelections": [
         "Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "Wong1983_control_400mg_sd_tabIR|Organism|PeripheralVenousBlood|Carbamazepine|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Wong 1983 - Treatment B (without erythromycin) - Carbamazepine - PO - 400 mg - Plasma - indiv."
+        }
       ],
       "Individual": "Wong1983",
       "Compounds": [
@@ -18696,9 +19201,7 @@
           "LinkedParameters": [
             "Wada1978_200mg_sd_syrup|Neighborhoods|Kidney_pls_Kidney_ur|Carbamazepine|Glomerular Filtration-Glomerular Filtration-Carbamazepine|GFR fraction",
             "Gerardin1990_Subject1_10mg-iv_100mg-po-sol|Neighborhoods|Kidney_pls_Kidney_ur|Carbamazepine|Glomerular Filtration-Glomerular Filtration-Carbamazepine|GFR fraction",
-            "Gerardin1990_Subject1_10mg-iv_100mg-po-sol|Neighborhoods|Kidney_pls_Kidney_ur|[15N]-Carbamazepine|Glomerular Filtration-Glomerular Filtration-Carbamazepine|GFR fraction",
-            "Gerardin1990_Subject2_10mg-iv_100mg-po-sol|Neighborhoods|Kidney_pls_Kidney_ur|Carbamazepine|Glomerular Filtration-Glomerular Filtration-Carbamazepine|GFR fraction",
-            "Gerardin1990_Subject2_10mg-iv_100mg-po-sol|Neighborhoods|Kidney_pls_Kidney_ur|[15N]-Carbamazepine|Glomerular Filtration-Glomerular Filtration-Carbamazepine|GFR fraction"
+            "Gerardin1990_Subject2_10mg-iv_100mg-po-sol|Neighborhoods|Kidney_pls_Kidney_ur|Carbamazepine|Glomerular Filtration-Glomerular Filtration-Carbamazepine|GFR fraction"
           ],
           "Parameters": [
             {
@@ -21325,7 +21828,7 @@
             1.21
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -29716,7 +30219,7 @@
             1.43
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -30421,7 +30924,7 @@
             0.393584251
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -31360,7 +31863,7 @@
             0.26
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -31533,7 +32036,7 @@
             0.62
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -31706,7 +32209,7 @@
             0.3
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -31879,7 +32382,7 @@
             0.31
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -32064,7 +32567,7 @@
             0.008368263
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -32564,7 +33067,7 @@
             0.63
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -32869,7 +33372,7 @@
             0.05640461
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/ml"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
