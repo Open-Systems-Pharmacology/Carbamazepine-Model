@@ -1,6 +1,6 @@
 ### 2.2.1 In vitro / physicochemical Data
 
-A literature search was performed to collect available information on physicochemical properties of carbamazepine and carbamazepine-10,11-epoxide. The information is summarized in the table below. 
+A literature search was performed to collect available information on physicochemical properties of carbamazepine. The information is summarized in the table below. 
 
 | **Parameter**                            | **Unit**                 | **Value**                                 | Source                            | **Description**                                         |
 |:---------------------------------------- | ------------------------ | ----------------------------------------- | --------------------------------- | ------------------------------------------------------- |
