@@ -9,7 +9,6 @@ A literature search was performed to collect available information on physicoche
 | logP (calculated)                        |                          | 2.1                                       | [DrugBank DB00564](#5-references) | Partition coefficient between octanol and water         |
 | logP (calculated)                        |                          | 2.45                                      | [Fenet 2012](#5-references)       | Partition coefficient between octanol and water         |
 | logP (calculated)                        |                          | 2.77                                      | [DrugBank DB00564](#5-references) | Partition coefficient between octanol and water         |
-| pK<sub>a</sub>                           |                          | 11.83                                     |                                   | Logarithm of the acid dissociation constant             |
 | Solubility (pH)                          | µg/mL                    | 336 (6.2)                                 | [Annaert 2010](#5-references)     | Solubility in human intestinal fluid                    |
 | Solubility (pH)                          | µg/mL                    | 283 (7.0)                                 | [Söderlind 2010](#5-references)   | Solubility in human intestinal fluid                    |
 | Solubility (pH)                          | µg/mL                    | 306 (6.9)                                 | [Clarysse 2011](#5-references)    | Solubility in fasted human intestinal fluid             |

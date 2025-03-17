@@ -3042,16 +3042,6 @@
           ]
         }
       ],
-      "PkaTypes": [
-        {
-          "Type": "Acid",
-          "Pka": 11.83,
-          "ValueOrigin": {
-            "Source": "Publication",
-            "Description": "Tomaszewska 2013 (https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.607145)"
-          }
-        }
-      ],
       "Processes": [
         {
           "InternalName": "Induction",
@@ -3350,16 +3340,6 @@
               }
             }
           ]
-        }
-      ],
-      "PkaTypes": [
-        {
-          "Type": "Acid",
-          "Pka": 11.83,
-          "ValueOrigin": {
-            "Source": "Publication",
-            "Description": "Tomaszewska 2013 (https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.607145)"
-          }
         }
       ],
       "Processes": [
