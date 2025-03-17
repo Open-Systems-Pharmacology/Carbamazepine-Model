@@ -1,5 +1,5 @@
 {
-    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v2.3/OSP_Qualification_Plan_Schema.json",
+    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v3.3/OSP_Qualification_Plan_Schema.json",
     "Projects": [
         {
             "Id": "Carbamazepine",
@@ -123,269 +123,272 @@
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Barzaghi1987_400mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Bedada2015_200mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Bedada2016_200mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Bernus1994_600mg_D1+D5_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Bianchetti1987_400mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Burstein2000_100-200-400mg_md_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Caraco1995_200mg_sd_LeanGroup",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Cawello2010_TrialB_200mg_BID",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Cotter1977_individual_800mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Dalton1985a_control_600mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Dalton1985b_600mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Eichelbaum1985_VolunteerEH_200mg_sd_susp",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Elqidra2004_200mg_sd",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "EUPatent2000_400mg_sd_TegretolXR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "EUPatent2000_600mg_sd_TegretolXR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Gerardin1976_100mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Gerardin1976_200mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Gerardin1976_600mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Gerardin1976_mean_200mg_md_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Gerardin1990_Subject1_10mg-iv_100mg-po-sol",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Gerardin1990_Subject2_10mg-iv_100mg-po-sol",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Ji2008_Arm2_Control_100-200-400mg_md_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Kayali1994_200mg_sd",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Kim2005_200mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Kovacevic2009_400mg_sd_TegretolIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Kovacevic2009_400mg_sd_TegretolXR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Levy1975_6mg-kg_sd_solution_fasted",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Levy1975_6mg-kg_sd_tabIR_fasted",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "McLean2001_400mg_sd_capXR_fasted",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Meyer1992_200mg_sd_TegretolIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Meyer1998_200mg_sd_TegretolIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Miles1989_control_357mg_md_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Moller2001_100-200-400mg_md_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Morselli1975_healthy_400mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Pynnoenen1977_400mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Rawlins1975_100mg_sd_solution_volunteerG",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Rawlins1975_200mg_sd_solution_volunteerG",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Rawlins1975_200mg_sd_tablet_volunteerG",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Rawlins1975_50mg_sd_solution_volunteerG",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Saint-Salvi1987_200mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Stevens1998_400mg_bid_CarbatrolXR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Stevens1998_400mg_bid_TegretolXR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Strandjord1975_mean_400mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Sumi1987_200mg_sd_sol",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Sumi1987_200mg_sd_tabletA",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Sumi1987_200mg_sd_tabletB",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Sumi1987_200mg_sd_tabletC",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Tomson1983_GB_200mg_sd_susp",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "USPatent2009_300mg_sd_capXR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Wada1978_200mg_sd_syrup",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Wada1978_200mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             },
             {
                 "Project": "Carbamazepine",
                 "Simulation": "Wong1983_control_400mg_sd_tabIR",
-                "SectionId": 33
+                "SectionReference": "ct-profiles"
             }
         ],
         "GOFMergedPlots": [
             {
                 "Title": "Goodness of fit plot for concentration in plasma",
-                "SectionId": 32,
-                "PlotType": "predictedVsObserved|residualsOverTime",
+                "SectionReference": "diagnostics-plots",
+                "PlotTypes": [
+                    "predictedVsObserved",
+                    "residualsOverTime"
+                ],
                 "Groups": [
                     {
                         "Caption": "Carbamazepine, PO administration as immediate release tablet",
@@ -913,91 +916,91 @@
             "Name": "Carbamazepine",
             "Project": "Carbamazepine",
             "Type": "Compound",
-            "SectionId": 31
+            "SectionReference": "final-input-parameters"
         },
         {
             "Name": "[15N]-Carbamazepine",
             "Project": "Carbamazepine",
             "Type": "Compound",
-            "SectionId": 31
+            "SectionReference": "final-input-parameters"
         },
         {
             "Name": "CBZ_tabletIR_fasted (Tegretol)",
             "Project": "Carbamazepine",
             "Type": "Formulation",
-            "SectionId": 31
+            "SectionReference": "final-input-parameters"
         },
         {
             "Name": "CBZ_capsuleXR_fasted (Carbatrol)",
             "Project": "Carbamazepine",
             "Type": "Formulation",
-            "SectionId": 31
+            "SectionReference": "final-input-parameters"
         },
         {
             "Name": "Solution",
             "Project": "Carbamazepine",
             "Type": "Formulation",
-            "SectionId": 31
+            "SectionReference": "final-input-parameters"
         }
     ],
     "Sections": [
         {
-            "Id": 1,
-            "Title": "1 Introduction",
+            "Reference": "introduction",
+            "Title": "Introduction",
             "Content": "Content/Section1_Introduction.md"
         },
         {
-            "Id": 2,
-            "Title": "2 Methods",
+            "Reference": "methods",
+            "Title": "Methods",
             "Content": "Content/Section2_Methods.md",
             "Sections": [
                 {
-                    "Id": 21,
-                    "Title": "2.1 Modeling Strategy",
+                    "Reference": "modeling-strategy",
+                    "Title": "Modeling Strategy",
                     "Content": "Content/Section2.1_Modeling_Strategy.md"
                 },
                 {
-                    "Id": 22,
-                    "Title": "2.2 Data",
+                    "Reference": "data",
+                    "Title": "Data",
                     "Content": "Content/Section2.2_Data.md"
                 },
                 {
-                    "Id": 23,
-                    "Title": "2.3 Model Parameters and Assumptions",
+                    "Reference": "model-parameters-and-assumptions",
+                    "Title": "Model Parameters and Assumptions",
                     "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md"
                 }
             ]
         },
         {
-            "Id": 3,
-            "Title": "3 Results and Discussion",
+            "Reference": "results-and-discussion",
+            "Title": "Results and Discussion",
             "Content": "Content/Section3_Results_and_Discussion.md",
             "Sections": [
                 {
-                    "Id": 31,
-                    "Title": "3.1 Final input parameters",
+                    "Reference": "final-input-parameters",
+                    "Title": "Final input parameters",
                     "Content": "Content/Input_table.md"
                 },
                 {
-                    "Id": 32,
-                    "Title": "3.2 Diagnostics Plots",
+                    "Reference": "diagnostics-plots",
+                    "Title": "Diagnostics Plots",
                     "Content": "Content/GOF_diagnostics.md"
                 },
                 {
-                    "Id": 33,
-                    "Title": "3.3 Concentration-Time Profiles",
+                    "Reference": "ct-profiles",
+                    "Title": "Concentration-Time Profiles",
                     "Content": "Content/Concentration_time_profiles.md"
                 }
             ]
         },
         {
-            "Id": 4,
-            "Title": "4 Conclusion",
+            "Reference": "conclusion",
+            "Title": "Conclusion",
             "Content": "Content/Section4_Conclusion.md"
         },
         {
-            "Id": 5,
-            "Title": "5 References",
+            "Reference": "main-references",
+            "Title": "References",
             "Content": "Content/References.md"
         }
     ],
