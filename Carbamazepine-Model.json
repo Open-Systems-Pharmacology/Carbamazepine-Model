@@ -26098,9 +26098,10 @@
                 "MolWeight": 236.269
               },
               "Values": [
-                0.00157480314
+                0.157480314
               ],
-              "Dimension": "Fraction"
+              "Dimension": "Fraction",
+              "Unit": "%"
             }
           ],
           "QuantityInfo": {
@@ -26244,9 +26245,10 @@
                 "MolWeight": 236.269
               },
               "Values": [
-                0.003543307
+                0.3543307
               ],
-              "Dimension": "Fraction"
+              "Dimension": "Fraction",
+              "Unit": "%"
             }
           ],
           "QuantityInfo": {
