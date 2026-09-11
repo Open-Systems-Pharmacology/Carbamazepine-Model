@@ -1,6 +1,7 @@
 {
   "Name": "Carbamazepine-Model",
   "Version": 81,
+  "ApplicationName": "PK-Sim",
   "ExpressionProfiles": [
     {
       "Type": "Enzyme",
@@ -36276,6 +36277,5 @@
         "Eichelbaum 1985 - Healthy subject EH - Carbamazepine - PO - 200 mg - Plasma - indiv."
       ]
     }
-  ],
-  "ApplicationName": "PK-Sim"
+  ]
 }
